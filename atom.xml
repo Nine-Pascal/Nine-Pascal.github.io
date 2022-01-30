@@ -1,0 +1,708 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>七点零九刻</title>
+  
+  <subtitle>于九点，与一刻</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://nine-pascal.gitee.io/"/>
+  <updated>2021-10-01T13:24:40.000Z</updated>
+  <id>https://nine-pascal.gitee.io/</id>
+  
+  <author>
+    <name>Nine Pascal</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>网宣部简介</title>
+    <link href="https://nine-pascal.gitee.io/posts/e247ad55/"/>
+    <id>https://nine-pascal.gitee.io/posts/e247ad55/</id>
+    <published>2021-10-01T13:24:40.000Z</published>
+    <updated>2021-10-01T13:24:40.000Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote><ul><li>情人眼里出西施，编辑手里藏事实。</li></ul></blockquote><a id="more"></a><h1 id="网宣部简介"><a class="markdownIt-Anchor" href="#网宣部简介"></a> 网宣部简介</h1><h2 id="网宣部是什么"><a class="markdownIt-Anchor" href="#网宣部是什么"></a> 网宣部是什么</h2><ul><li><p>依托于网络技术</p><ul><li>网宣部是什么，在讨论这个问题时，我们可以将目光着眼于这三个文字，顾名思义——网络宣传。依托于新时代的网络技术，对我们之前想要，现在需要，未来将要的文字、图片、视频等信息进行更加细节、优质的处理与宣传。</li></ul></li><li><p>进行宣传工作</p><ul><li>网宣部作为对外交流的窗口，是协调学生会各部门开展宣传工作的一个重要部门。在日常工作中，充分利用宣传工具，通过文字记录校学生会的日常活动，运用摄影器材记录生活。</li></ul></li></ul><h2 id="网宣部干什么"><a class="markdownIt-Anchor" href="#网宣部干什么"></a> 网宣部干什么</h2><ul><li><p>学院新闻的撰写</p><ul><li>活动的开始与结束时，对活动进行跟踪报道，以客观理性的角度对事件进行阐述，用网络的方式对消息进行快速传播。 是学院永久、公开的记录的一部分，是学院内容的重要资产。</li></ul></li><li><p>海报的制作</p><ul><li>海报是用于演出、活动等事件通知的一种方式。是视觉传达的表现形式之一，通过版面的构成在第一时间内将人们的目光吸引，并获得瞬间的刺激，将图片、文字、色彩、空间等要素进行完整的结合，以恰当的形式向人们展示出宣传信息。</li></ul></li><li><p>视频的编辑</p><ul><li>使用软件对视频源进行非线性编辑，加入的图片、背景音乐、特效、场景等素材与视频进行重混合，对视频源进行切割、合并，通过二次编码，生成具有不同表现力的新视频。</li></ul></li></ul><h2 id="需要取其一"><a class="markdownIt-Anchor" href="#需要取其一"></a> 需要？取其一</h2><p><em>所谓需要就像是把动态的存在弄成了静态的存在者，很是奇怪。</em></p><ul><li><p>对电脑各种软件有一定操作经验和学习热情</p></li><li><p>对Ps，Pr，AE，FCPX，DaVinci，Lr等等图片、视频编辑软件有一定经验（泼辣修图这种圈钱软件倒也勉勉强强）</p></li><li><p>有一定文字功底，能撰写一定的新闻类稿件</p></li></ul><p><em>水层数</em></p><hr>]]></content>
+    
+    <summary type="html">
+    
+      &lt;blockquote&gt;&lt;ul&gt;&lt;li&gt;情人眼里出西施，编辑手里藏事实。&lt;/li&gt;&lt;/ul&gt;&lt;/blockquote&gt;
+    
+    </summary>
+    
+    
+      <category term="何钩画人间" scheme="https://Nine-Pascal.gitee.io/categories/%E4%BD%95%E9%92%A9%E7%94%BB%E4%BA%BA%E9%97%B4/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>macOS软件安装报错</title>
+    <link href="https://nine-pascal.gitee.io/posts/960795b7/"/>
+    <id>https://nine-pascal.gitee.io/posts/960795b7/</id>
+    <published>2021-06-22T06:20:41.000Z</published>
+    <updated>2021-06-22T06:20:41.000Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote><ul><li></li></ul></blockquote><a id="more"></a><h1 id="macos软件安装报错"><a class="markdownIt-Anchor" href="#macos软件安装报错"></a> macOS软件安装报错</h1><h2 id="mac系统打开软件提示1014系統提示鉴定错误1015系統提示认证错误"><a class="markdownIt-Anchor" href="#mac系统打开软件提示1014系統提示鉴定错误1015系統提示认证错误"></a> Mac系统打开软件提示10.14系統提示【鉴定错误】，10.15系統提示【认证错误】</h2><ul><li>系统密码错误或者 dmg 包密码错误</li></ul><h2 id="apple-m1-芯片打开软件闪退并提示因为出现问题而无法打开"><a class="markdownIt-Anchor" href="#apple-m1-芯片打开软件闪退并提示因为出现问题而无法打开"></a> Apple M1 芯片打开软件闪退并提示：因为出现问题而无法打开</h2><ul><li>打开应用程序，找到提示错误的软件，鼠标右键软件图标，选择并点击【显示简介】</li><li>勾选【使用Rosetta打开】，然后再重新打开软件即可（如果应用没有【使用Rosetta打开】的选择，就说明软件不支持Rosetta运行，只能等软件开发者适配）</li></ul><h2 id="mac软件打开提示已损坏打不开-您应该将它移到废纸娄"><a class="markdownIt-Anchor" href="#mac软件打开提示已损坏打不开-您应该将它移到废纸娄"></a> Mac软件打开提示：已损坏，打不开。您应该将它移到废纸娄</h2><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">sudo spctl --master-disable <span class="comment"># 打开全部来源</span></span><br><span class="line">xattr -cr &#123;软件&#125; <span class="comment"># 取消软件签字</span></span><br></pre></td></tr></table></figure><h2 id="macos-安装网页端软件指令"><a class="markdownIt-Anchor" href="#macos-安装网页端软件指令"></a> macOS 安装网页端软件指令</h2><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">sudo spctl --master-disable  <span class="comment"># 开启全部来源安装</span></span><br><span class="line">sudo xattr -r -d com.apple.quarantine &#123;软件&#125;  <span class="comment"># 取消网络下载签字</span></span><br></pre></td></tr></table></figure><h2 id="homebrew-安装缺少访问文件权限"><a class="markdownIt-Anchor" href="#homebrew-安装缺少访问文件权限"></a> homebrew 安装缺少访问文件权限</h2><p>将互联网下载的标记从文件里面删除</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">sudo chown -R <span class="string">'whoami'</span>:admin /usr/<span class="built_in">local</span>/bin</span><br><span class="line">sudo chown -R <span class="string">'whoami'</span>:admin /usr/<span class="built_in">local</span>/share</span><br></pre></td></tr></table></figure><hr>]]></content>
+    
+    <summary type="html">
+    
+      &lt;blockquote&gt;&lt;ul&gt;&lt;li&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/blockquote&gt;
+    
+    </summary>
+    
+    
+      <category term="技巧" scheme="https://Nine-Pascal.gitee.io/categories/%E6%8A%80%E5%B7%A7/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>与创集</title>
+    <link href="https://nine-pascal.gitee.io/posts/c1ea11d8/"/>
+    <id>https://nine-pascal.gitee.io/posts/c1ea11d8/</id>
+    <published>2021-05-30T06:35:07.000Z</published>
+    <updated>2021-05-30T06:35:07.000Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote><ul><li>创造创毁灭，亡魂亡新生</li></ul></blockquote><a id="more"></a><h1 id="与创集"><a class="markdownIt-Anchor" href="#与创集"></a> 与创集</h1><blockquote><p>我要去参加鬼魂和女巫的舞会<br>一个戴着面具和假发的代表团将出现在那里<br>跳舞，不被认可的，加入到生者的合唱中</p></blockquote><blockquote><p>万物中的一切并非都是合乎人情的美<br>丑就在美的旁边<br>畸形靠近着优美<br>丑怪藏在崇高的背后<br>美与恶并存<br>光明与黑暗相共</p></blockquote><blockquote><p>树，一直凌驾于树的语言之上<br>某日清晨，我真正触摸过的树<br>是永远的谜</p></blockquote><blockquote><p>那些幸福时刻留下的物品<br>会比让我们体验那份幸福的人们<br>更忠诚地珍藏那些幸福时刻的记忆、颜色、触觉和视觉的欢愉</p></blockquote><blockquote><p>闷闷不乐<br>怀念往日<br>那时候，世界犹可安居<br>人们宁静度日<br>现在的一切就像延迟错位……到处是愁眉苦脸<br>一片混乱，发霉，冰冷</p></blockquote><blockquote><p>当灵魂躺卧在那片青草地上时<br>世界的丰盛，远超出能言的范围</p></blockquote><blockquote><p>谁曾见过风？ 你我皆不曾。<br>但看万木垂梢首，便晓风吹过。</p></blockquote><blockquote><p>那么多的藏书仿佛没有读过<br>其中也有我写的若干本</p></blockquote><blockquote><p>既不是随兴的取材，也不是强调完全的精确<br>而是位于两者的中间点，随着感觉而走</p></blockquote><blockquote><p>城市带给你七色的疤痕<br>米饭给你白色的安慰</p></blockquote><blockquote><p>谁都不是一座岛屿，全然成为自己<br>每人都是大陆的一块，整体的一部分</p></blockquote><blockquote><p>这只证明了活着，<br>活成了什么还不一定</p></blockquote><blockquote><p>事物回到他们自身，<br>而我成为我</p></blockquote><blockquote><p>河面仍有波光，<br>月色已经降临</p></blockquote><blockquote><p>人世徒然，虚梦一场<br>与死抗衡，皆为惘然</p></blockquote><blockquote><p>世界是黑暗的,生活充满了谎言与混乱<br>思想闪烁照路,我们踯躅前行</p></blockquote><blockquote><p>我心里一直都在暗暗设想<br>天堂应该是图书馆的模样</p></blockquote><blockquote><p>夜不黑，黑的是这世界<br>和我再多待一会儿</p></blockquote><blockquote><p>相信有来者<br>即便前方荆棘丛生<br>走着走着，脚印就深了</p></blockquote><blockquote><p>床头花一片<br>闲落小棉中</p></blockquote><blockquote><p>生活<br>在不断地编辑中才得以继续</p></blockquote><blockquote><p>如果问我思念多重，不重的，像一座秋山的落叶</p></blockquote><hr>]]></content>
+    
+    <summary type="html">
+    
+      &lt;blockquote&gt;&lt;ul&gt;&lt;li&gt;创造创毁灭，亡魂亡新生&lt;/li&gt;&lt;/ul&gt;&lt;/blockquote&gt;
+    
+    </summary>
+    
+    
+      <category term="当以爱之名" scheme="https://Nine-Pascal.gitee.io/categories/%E5%BD%93%E4%BB%A5%E7%88%B1%E4%B9%8B%E5%90%8D/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>当以爱之名</title>
+    <link href="https://nine-pascal.gitee.io/posts/19ed6fa1/"/>
+    <id>https://nine-pascal.gitee.io/posts/19ed6fa1/</id>
+    <published>2021-05-30T06:26:28.000Z</published>
+    <updated>2021-05-30T06:26:28.000Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote><p>闭上眼睛，就可以只看到你</p></blockquote><a id="more"></a><h1 id="当以爱之名"><a class="markdownIt-Anchor" href="#当以爱之名"></a> 当以爱之名</h1><blockquote><p>黑白色的夜里，我想看看月亮<br>我看见月亮很好，就像我当初<br>看见你很好一样</p></blockquote><blockquote><p>秋风带凉，遍地月光<br>可天上的月亮只有一个<br>就像世间唯一的你</p></blockquote><blockquote><p>你走以后，秋天开始落叶<br>一片一片，从枝头凋落下来<br>和所有的落叶一样<br>我也逐渐习惯了分离</p></blockquote><blockquote><p>其实，我曾企图离你更近<br>就像深夜的火车，沿着既定的铁轨<br>在你耳边轰鸣。就像那天的果园<br>散发出迷人的香气</p></blockquote><blockquote><p>待喧嚣世界褪去浮华<br>任时光平静地流淌<br>当终有一日我们相遇<br>真诚与爱让我们彼此靠近<br>紧紧相依</p></blockquote><blockquote><p>我渴念你能看见<br>一双清澈的眸子在水底闪亮<br>我的灵魂只需要你的理解</p></blockquote><blockquote><p>永远无法割舍，永远藕断丝连<br>我已成为一座想念的博物馆</p></blockquote><blockquote><p>夏天是一种感觉，<br>感觉到风，感觉到你</p></blockquote><blockquote><p>夏天属于散文和柠檬，属于裸露和慵懒<br>属于关于回归的想像的永恒闲置<br>属于稀见的长笛和赤裸的双足，还有八月的卧室</p></blockquote><blockquote><p>没有爱，我们就没有能力定位一个合适的身份<br>拥有爱，我们就可以不断确定自我的存在</p></blockquote><blockquote><p>你来了，我们看见彼此<br>这一刻，凝固永恒</p></blockquote><blockquote><p>从他们生存的圈子里跳出来并互相结合<br>同时又脱离自我中心去体验自己</p></blockquote><blockquote><p>别后不知君远近<br>渐行渐远渐无书</p></blockquote><blockquote><p>天色如此温柔<br>不如一起散步</p></blockquote><blockquote><p>两个安静的鸟<br>在等待<br>夜来了 爱来了</p></blockquote><blockquote><p>想约你走一走<br>路的尽头是碧海蓝天</p></blockquote><hr>]]></content>
+    
+    <summary type="html">
+    
+      &lt;blockquote&gt;&lt;p&gt;闭上眼睛，就可以只看到你&lt;/p&gt;&lt;/blockquote&gt;
+    
+    </summary>
+    
+    
+      <category term="当以爱之名" scheme="https://Nine-Pascal.gitee.io/categories/%E5%BD%93%E4%BB%A5%E7%88%B1%E4%B9%8B%E5%90%8D/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>明日再见</title>
+    <link href="https://nine-pascal.gitee.io/posts/858b49e1/"/>
+    <id>https://nine-pascal.gitee.io/posts/858b49e1/</id>
+    <published>2021-05-30T06:08:58.000Z</published>
+    <updated>2021-05-30T06:08:58.000Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote><ul><li>累了，就好好睡一觉吧</li></ul></blockquote><a id="more"></a><h1 id="明日再见"><a class="markdownIt-Anchor" href="#明日再见"></a> 明日再见</h1><blockquote><p>鸟儿不再叫了。到处是一片幽静。<br>轻梦用翅膀吹闭上了你的眼睛。<br>花儿睡觉了，疲倦地低垂着头，——<br>祝你晚安！</p><p>只有在草丛里，小溪潺潺细语——<br>就像是一首甜美的民歌在流响。<br>森林沉睡啦。周围静寂无声，——<br>祝你晚安！</p><p>月亮升起来啦，于是阴影<br>愈来愈黑暗，愈来愈短促。<br>一切都是梦想，一切都是幻影……<br>祝你晚安！</p></blockquote><blockquote><p>我们相遇，手挽手，<br>我们把手抓得紧紧，<br>就像橡树和常春藤一般亲；<br>但这已成往事：<br>日来夜往，那一天终于来临。</p><p>我们各自松了手，<br>脸对着脸分了手；<br>各自沿自己的方向<br>以自己的速度<br>各自走向不同的地方。</p><p>如果我们有一天相遇，<br>如果两人不曾忘记，<br>我们会握手，以习惯的方式，<br>就像我们初遇<br>很久以前，如我记得的方式。</p></blockquote><blockquote><p>在夜深的时候来到海边<br>海就成了一种声音<br>机械，单调，一遍一遍<br>走着听，坐着听，躺下来听<br>也在不听的时候听<br>浪声扩大了被夜色缩小的海面</p><p>你我日日相伴，几近无话可说<br>但是此时又没话找话<br>说高悬于头顶的那片星辰<br>说右前方那轮西沉的通红上弦月<br>直到浪声成为一种背景<br>直到我们沉默下来，浪声又起</p></blockquote><blockquote><p>内在的某处，我们总在一起，<br>内在的某处，我们的爱永不逃离。<br>在某处<br>哦在某处<br>所有的火车已开走，所有的钟已停止：<br>内在的某处，我们总是在此时此地，<br>我们总是混在一起<br>突然，我们成为疑惑与变形的奇迹，<br>冲击的海浪，玫瑰的火焰和雪。</p><p>内在的某处骨头已变白<br>从学者和不信教的人所屈从的渴望中<br>由于渐变的否定<br>由于背信弃义<br>哦慰藉的云！</p><p>内在的某处<br>骨头已变白而幻景集合了<br>隐约的安全感涌如浪涛<br>你反映我们的疏远有如浪涛中星星的疏远<br>你反映我们的亲近有如浪涛中星星的亲近<br>梦总是卸掉它的伪装，开始变成你<br>你在痛苦中悄悄离开我<br>重又归来<br>重又归于我<br>越来越内在，越来越是你。</p></blockquote><blockquote><p>我凌晨回家时，常常遇到寂静。<br>当我来到某个空旷的十字路口，<br>来往的汽车突然不见了，所有的噪音<br>突然像潮水般退去，好像我是王<br>而它们全都拜倒在我脚下。那是无边的寂静，<br>而我变得庞大，像巨人一样。接着，<br>噪音又纷纷站立起来，迅速膨胀，<br>而我感到自己不断缩小，终于<br>在一阵喧嚣中消失。</p></blockquote><blockquote><p>彗星苏醒的那晚<br>我也想<br>让你抬头看看</p></blockquote><blockquote><p>把冰块丢进苏打水<br>让气泡升腾<br>抬头<br>看彗星的苏醒<br>文笔璀璨 临摹 宇宙的回音</p><p>在初生的秋意里挥写<br>那片灵魂侧卧的 青草地<br>丰盛 也然超出符号的规则</p></blockquote><hr>]]></content>
+    
+    <summary type="html">
+    
+      &lt;blockquote&gt;&lt;ul&gt;&lt;li&gt;累了，就好好睡一觉吧&lt;/li&gt;&lt;/ul&gt;&lt;/blockquote&gt;
+    
+    </summary>
+    
+    
+      <category term="当以爱之名" scheme="https://Nine-Pascal.gitee.io/categories/%E5%BD%93%E4%BB%A5%E7%88%B1%E4%B9%8B%E5%90%8D/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>图像类数据结构化分装架构</title>
+    <link href="https://nine-pascal.gitee.io/posts/bd2c7f1e/"/>
+    <id>https://nine-pascal.gitee.io/posts/bd2c7f1e/</id>
+    <published>2021-05-09T07:17:45.000Z</published>
+    <updated>2021-05-09T07:17:45.000Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote><footer><strong>九之刻</strong></footer></blockquote><a id="more"></a><h1 id="图像类数据结构化分装架构"><a class="markdownIt-Anchor" href="#图像类数据结构化分装架构"></a> 图像类数据结构化分装架构</h1><h2 id="拍摄前期准备"><a class="markdownIt-Anchor" href="#拍摄前期准备"></a> 拍摄前期准备</h2><p><strong>需要获取信息：</strong></p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">需求获取渠道：社交平台&#x2F;线下</span><br><span class="line">通知人：或者说是谁通知拍摄</span><br><span class="line">时间：精确到分钟</span><br><span class="line">地点：精确到房间</span><br><span class="line">需求：需求什么不会有的，虽然一般会有</span><br></pre></td></tr></table></figure><p>需求，就<strong>留空</strong>留着吧。我这举个例子，不同人的需求写出来的需求肯定不会一样但别搞出些奇奇怪怪的东西，报道搞的照片要求既然是写实，拍清晰始终是第一要务，想那么多花里胡哨的不知道在干啥。</p><blockquote><p>服装、道具：</p><ul><li>红色连衣裙</li><li>蕾丝布料（蒙眼）</li><li>绿色水果（对比）</li><li>带壳水果</li><li>棱镜，塑料瓶</li></ul><p>构思：</p><ul><li>一个患有孤独症的女孩幻想着另一个自己的陪伴</li><li>幻想于已，温柔以待</li><li>一人分饰两角，后期合成</li></ul><p>脚本：</p><ul><li>穿过门框，蒙住眼睛抹黑向前；站在原地望向门框</li><li>半身近景；站在窗前蒙住眼睛，脸朝右边；站在对面捂嘴笑，脸朝左边</li><li>特写；蒙眼睛脸朝右边；贴着耳朵说话</li><li>蹲在地上啃水果；伸出一只手递苹果</li><li>蒙眼跪在窗前，露腿身体后仰，手撑地，神态狼狈；一只手递过一支干花</li><li>坐在窗台上，蒙眼睛张嘴；剥水果</li><li>特写；蒙眼睛张嘴；递水果到嘴边</li><li>逆光，半身近景；躺在床上；面对床坐着</li><li>蒙眼睛转圈，裙摆飘起；站在一边鼓掌</li><li>特写，摘下蒙眼布</li><li>大光圈，逆光，望向空无一人的窗外</li><li>空镜，窗台上留下的杯子和水果</li></ul><footer><strong>我就这么举个栗子，个人偏好绝对是影响这玩意的主要方面</strong></footer></blockquote><hr><h2 id="拍摄普适化模式"><a class="markdownIt-Anchor" href="#拍摄普适化模式"></a> 拍摄普适化模式</h2><p><strong>需要记录几个东西：</strong></p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br></pre></td><td class="code"><pre><span class="line">第一张照片拍摄时间：字面的意思，当然活动不是没有可能没有。</span><br><span class="line">照片拍摄总数：字面的意思</span><br><span class="line">可用照片数：能够发出来的照片</span><br><span class="line">拍摄设备型号：多设备之间用中文逗号隔开</span><br><span class="line">拍摄人：多人名之间用中文逗号隔开</span><br><span class="line">最后一张照片拍摄时间：诚然，时间是能改的，反正就记着呗。</span><br><span class="line">是否有人登记信息：一般是没的，毕竟我们拍照都是不用去现场的。</span><br><span class="line">备注：一样用于容错的，一般也是没的。</span><br></pre></td></tr></table></figure><h2 id="归档"><a class="markdownIt-Anchor" href="#归档"></a> 归档</h2><p><strong>新闻稿归档文件深度</strong></p><figure class="highlight ada"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment">-- 新闻稿</span></span><br><span class="line">  |<span class="comment">-- X月</span></span><br><span class="line">      |<span class="comment">-- 时间-地点-题目-地点-主要参与人-某某摄</span></span><br><span class="line">          |<span class="comment">-- 时间-地点-题目-地点-主要参与人-某某摄.docx</span></span><br><span class="line">          |<span class="comment">-- 时间-地点-题目-地点-主要参与人-某某摄1.png</span></span><br><span class="line">          |<span class="comment">-- ……</span></span><br></pre></td></tr></table></figure><h2><a class="markdownIt-Anchor" href="#"></a> ？？？</h2><p>与其说是工作积压，不如说根本不知道是什么工作。</p><p>分工合作所带来的效率是建立在互相彼此的相似能力强度和强大的沟通之上的，微信QQ等社交工具担当起了当代沟通的平台方不免有些膈应，而这低效的沟通跟执意的坚持所带来割裂的群体构象。人体能够保持运作靠的不是大脑，而是永不断连的神经网络。</p><p>诚然，验证一个系统是否稳定的方法就是把它放在那放一百个周期，但没见过哪个系统是没用熔断机制。（哦你说波音啊，那就没事了）</p><hr>]]></content>
+    
+    <summary type="html">
+    
+      &lt;blockquote&gt;&lt;footer&gt;&lt;strong&gt;九之刻&lt;/strong&gt;&lt;/footer&gt;&lt;/blockquote&gt;
+    
+    </summary>
+    
+    
+      <category term="发布" scheme="https://Nine-Pascal.gitee.io/categories/%E5%8F%91%E5%B8%83/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>注释集</title>
+    <link href="https://nine-pascal.gitee.io/posts/32c4efe/"/>
+    <id>https://nine-pascal.gitee.io/posts/32c4efe/</id>
+    <published>2021-03-16T08:13:01.000Z</published>
+    <updated>2021-03-16T08:13:01.000Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote><ul><li>注释集，集注释</li></ul></blockquote><a id="more"></a><h1 id="注释集"><a class="markdownIt-Anchor" href="#注释集"></a> 注释集</h1><blockquote><p>惊鸿奔，风袂飘颻无定准。</p><footer><strong>宋·张先</strong><cite>《天仙子·观舞》</cite></footer></blockquote><blockquote><p>体迅轻鸿，荣曜春华。</p><footer><strong>汉·边让</strong><cite>《章华台赋》</cite></footer></blockquote><blockquote><p>其在人也，如竹箭之有筠也，如松柏之有心也。二者居天下之大端矣，故贯四时而不改柯易叶。</p><footer><strong>《礼记·礼器》</strong></footer></blockquote><hr>]]></content>
+    
+    <summary type="html">
+    
+      &lt;blockquote&gt;&lt;ul&gt;&lt;li&gt;注释集，集注释&lt;/li&gt;&lt;/ul&gt;&lt;/blockquote&gt;
+    
+    </summary>
+    
+    
+      <category term="当以爱之名" scheme="https://Nine-Pascal.gitee.io/categories/%E5%BD%93%E4%BB%A5%E7%88%B1%E4%B9%8B%E5%90%8D/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>走笔集</title>
+    <link href="https://nine-pascal.gitee.io/posts/656d118b/"/>
+    <id>https://nine-pascal.gitee.io/posts/656d118b/</id>
+    <published>2021-03-16T08:06:16.000Z</published>
+    <updated>2021-03-16T08:06:16.000Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote><ul><li>欲心随笔走，笔自由心动。</li></ul></blockquote><a id="more"></a><h1 id="走笔集"><a class="markdownIt-Anchor" href="#走笔集"></a> 走笔集</h1><blockquote><p>祖辈们创造了这未来，我们存在于这现在<br>自己创造的物件却成了代沟的源泉<br>明明是自己创造的未来却不由自己定义<br>落日的王朝呵，它无意 城将倾<br>新生的贵族呵，它愿信 明创造</p></blockquote><blockquote><p>岁月的两端布着沙子<br>掩盖着古今<br>与那团迷</p></blockquote><blockquote><p>只是偶尔反刍那些黏稠的记忆<br>就足以沉默<br>多么希望能回忆点什么<br>或者，也许是忘掉一切<br>在月光下的花园里——金色的瞌睡<br>树叶已经倦于生活和发出声响</p></blockquote><hr>]]></content>
+    
+    <summary type="html">
+    
+      &lt;blockquote&gt;&lt;ul&gt;&lt;li&gt;欲心随笔走，笔自由心动。&lt;/li&gt;&lt;/ul&gt;&lt;/blockquote&gt;
+    
+    </summary>
+    
+    
+      <category term="当以爱之名" scheme="https://Nine-Pascal.gitee.io/categories/%E5%BD%93%E4%BB%A5%E7%88%B1%E4%B9%8B%E5%90%8D/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>以吾名</title>
+    <link href="https://nine-pascal.gitee.io/posts/389f0135/"/>
+    <id>https://nine-pascal.gitee.io/posts/389f0135/</id>
+    <published>2021-02-25T07:29:20.000Z</published>
+    <updated>2021-02-25T07:29:20.000Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote><ul><li>定理，</li></ul></blockquote><a id="more"></a><h1 id="以吾名"><a class="markdownIt-Anchor" href="#以吾名"></a> 以吾名</h1><ul><li>不能踩踏草坪。但如果草坪已经被人踏出一条路，说明这片草坪放置位置不够科学。</li><li>无需感受死亡的滋味。即使游戏也不是最愉悦的感受，人的欲望会指使你向往极乐后的圣贤之土，痛苦也一样，死亡不会是最痛苦的感受，地狱不是你幻想出来的，是你的欲望，嘶吼。</li><li>无需关注界与界的边际。我们没有能力感知一个界可以与多少个界交壤，精确不属于这方天地。</li><li>何必猜测认知界外的知识。界外，维度都未必一样；明确自己所掌握的界的能力，在自己的这个维度里，这个能力永远是有效的。</li><li>少吃勿论是啥。选择留下最后一丝空气，香甜不再属于我的这里。</li><li>日记的受体是自己，传记的受体是出版社，小说的受体是游客。即使是同一个人也写不出同一段经历，酸甜苦辣滋味自知。</li><li>方便面和拉面有什么区别。表象的作用有时候会远远超乎人类的想想。</li><li>选择一个数字，并在日常生活中时时刻刻的避开它。让人们知道你讨厌它，这样才有一万种方式解释这个事情它，不吉利。</li><li>何来，一桶水。学习的越多，木桶就越大，水怎么能装满这样一个木桶。大家都是半桶水，不过有些人怕水一晃就蒸发了。</li><li>没有皮囊的虚妄，何来灵魂的深度。你以为这是马里奥，可，这是 <code>i wanna</code> 。</li><li>先诞生在这，然后一切就水到渠成了。与其说这是自信，不如是给你一个宣泄的借口，一种我也可以的错觉带来的一种名叫怠惰的情绪。</li><li>用最美好的东西，填满牙齿里的缝隙。与其说那是不完美，不如换个角度，那是天降的标志。</li></ul><hr>]]></content>
+    
+    <summary type="html">
+    
+      &lt;blockquote&gt;&lt;ul&gt;&lt;li&gt;定理，&lt;/li&gt;&lt;/ul&gt;&lt;/blockquote&gt;
+    
+    </summary>
+    
+    
+      <category term="何钩画人间" scheme="https://Nine-Pascal.gitee.io/categories/%E4%BD%95%E9%92%A9%E7%94%BB%E4%BA%BA%E9%97%B4/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>十六字令·彤</title>
+    <link href="https://nine-pascal.gitee.io/posts/b92e82e0/"/>
+    <id>https://nine-pascal.gitee.io/posts/b92e82e0/</id>
+    <published>2021-02-11T15:20:20.000Z</published>
+    <updated>2021-02-11T15:20:20.000Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote><p>彤。</p><p>翩若惊鸿婉应龙。</p><p>人迷醉，荣曜茂筠松。</p><footer><strong>九之刻</strong><cite>十六字令·彤</cite></footer></blockquote><a id="more"></a><h1 id="十六字令彤"><a class="markdownIt-Anchor" href="#十六字令彤"></a> 十六字令·彤</h1><blockquote><p>彤<sup class="footnote-ref"><a href="#fn1" id="fnref1">[1]</a></sup>。</p><p>翩若惊鸿<sup class="footnote-ref"><a href="#fn2" id="fnref2">[2]</a></sup>婉应龙<sup class="footnote-ref"><a href="#fn3" id="fnref3">[3]</a></sup>。</p><p>人迷醉，荣曜<sup class="footnote-ref"><a href="#fn4" id="fnref4">[4]</a></sup>茂筠松<sup class="footnote-ref"><a href="#fn5" id="fnref5">[5]</a></sup>。</p></blockquote><hr><hr class="footnotes-sep"><section class="footnotes"><ol class="footnotes-list"><li id="fn1" class="footnote-item"><p>彤：全词的韵脚，至于其他的嘛无需解释啦啦啦。 <a href="#fnref1" class="footnote-backref">↩︎</a></p></li><li id="fn2" class="footnote-item"><p>惊鸿：形容美女轻盈优美的姿态；出自宋·张先《天仙子·观舞》：“惊鸿奔，风袂飘颻无定准。” <a href="#fnref2" class="footnote-backref">↩︎</a></p></li><li id="fn3" class="footnote-item"><p>应龙：全称应时之龙、应德之龙，其名为吉，亦名庚辰，古代中国神话创世神。 <a href="#fnref3" class="footnote-backref">↩︎</a></p></li><li id="fn4" class="footnote-item"><p>荣曜：花木茂盛鲜艳，富贵显耀；出自汉·边让《章华台赋》：“体迅轻鸿，荣曜春华。” <a href="#fnref4" class="footnote-backref">↩︎</a></p></li><li id="fn5" class="footnote-item"><p>筠松：松树和竹子，喻高尚的情操。《礼记·礼器》：“其在人也，如竹箭之有筠也，如松柏之有心也。二者居天下之大端矣，故贯四时而不改柯易叶。” <a href="#fnref5" class="footnote-backref">↩︎</a></p></li></ol></section>]]></content>
+    
+    <summary type="html">
+    
+      &lt;blockquote&gt;&lt;p&gt;彤。&lt;/p&gt;&lt;p&gt;翩若惊鸿婉应龙。&lt;/p&gt;&lt;p&gt;人迷醉，荣曜茂筠松。&lt;/p&gt;&lt;footer&gt;&lt;strong&gt;九之刻&lt;/strong&gt;&lt;cite&gt;十六字令·彤&lt;/cite&gt;&lt;/footer&gt;&lt;/blockquote&gt;
+    
+    </summary>
+    
+    
+      <category term="当以爱之名" scheme="https://Nine-Pascal.gitee.io/categories/%E5%BD%93%E4%BB%A5%E7%88%B1%E4%B9%8B%E5%90%8D/"/>
+    
+    
+      <category term="十六字令" scheme="https://Nine-Pascal.gitee.io/tags/%E5%8D%81%E5%85%AD%E5%AD%97%E4%BB%A4/"/>
+    
+      <category term="彤" scheme="https://Nine-Pascal.gitee.io/tags/%E5%BD%A4/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>知识共享协议法律文本</title>
+    <link href="https://nine-pascal.gitee.io/posts/34b3a19b/"/>
+    <id>https://nine-pascal.gitee.io/posts/34b3a19b/</id>
+    <published>2020-12-30T16:00:00.000Z</published>
+    <updated>2020-12-30T16:00:00.000Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote><ul><li><a href="https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.zh-Hans" target="_blank" rel="noopener">知识共享(Creative Commons) 署名—非商业性使用—相同方式共享 4.0 协议国际版</a></li></ul></blockquote><a id="more"></a><h1 id="知识共享协议法律文本"><a class="markdownIt-Anchor" href="#知识共享协议法律文本"></a> 知识共享协议法律文本</h1><h2 id="署名非商业性使用相同方式共享-40-协议国际版"><a class="markdownIt-Anchor" href="#署名非商业性使用相同方式共享-40-协议国际版"></a> 署名—非商业性使用—相同方式共享 4.0 协议国际版</h2><p>本协议有其他语言的官方翻译版本。</p><p>知识共享组织(“Creative Commons”，“知识共享”) 不是一家律师事务所，也不对外提供法律服务或建议。提供知识共享公共许可协议(Creative Commons Public License，以下缩写为CCPL)并不导致“律师—当事人”关系或其他法律关系的建立。知识共享(Creative Commons)按其现状提供协议文本和相关信息。知识共享(Creative Commons)对于其许可协议，或通过该协议提供的作品(material)或相关信息不提供任何担保，在最大可能程度内，也不对因使用其协议或通过该协议提供的作品(material)或信息而造成的损失承担损害赔偿责任。</p><p><strong>知识共享公共许可协议(CCPL)的使用</strong></p><p>知识共享公共许可协议(CCPL)提供一套标准化的条款供作者或其他权利人使用，以便他们分享其原创作品(original works of authorship)和其他受著作权和以下公共许可协议中提及的其他特定权利保护的作品(material)。以下考虑因素仅供参考，并未列举穷尽，也不属于本公共许可协议文本的一部分。</p><p><strong>许可人应当考虑的因素：</strong> 知识共享(Creative Commons)公共许可协议是供那些有权许可公众以著作权或其他特定权利所保护的方式使用其作品(material)的权利人使用的。知识共享(Creative Commons)协议不可撤销。因此，在采用协议前，许可人应当阅读并理解其所选择的协议条款。许可人亦应确保其享有所授予公众的权利，以便公众能够顺利的使用授权作品(material)。许可人应当清楚地注明协议所不适用的作品(material)，包括其他采用知识共享协议授权的作品(material)，或基于著作权的例外或限制而使用的作品(material)。<a href="https://wiki.creativecommons.org/Considerations_for_licensors_and_licensees#Considerations_for_licensors" target="_blank" rel="noopener">许可人应该考虑的其他因素</a></p><p><strong>公众应当考虑的因素：</strong> 许可人通过使用知识共享(Creative Commons)协议，授权公众依据特定的条款和条件使用授权作品(Licensed Material)。如果因为任何原因不需要授权即可使用该作品(material)——例如基于著作权的例外或限制——那么该使用并不受本协议约束。许可人通过知识共享(Creative Commons)协议只能授予基于著作权或其他特定权利有权授予的许可。使用授权作品(Licensed Material)可能还受到其他情形的限制，包括第三方对该作品(material)所享有的著作权或其他权利。许可人可能做出其他特别要求，比如要求使用者标注或说明对作品(material)的所有更改。即使本协议没有要求，知识共享(Creative Commons)仍然鼓励您遵守许可人的合理要求。 <a href="https://wiki.creativecommons.org/Considerations_for_licensors_and_licensees#Considerations_for_licensees" target="_blank" rel="noopener">公众应当考虑的其他因素</a></p><h3 id="知识共享-creative-commons-署名非商业性使用相同方式共享-40公共许可协议国际版"><a class="markdownIt-Anchor" href="#知识共享-creative-commons-署名非商业性使用相同方式共享-40公共许可协议国际版"></a> 知识共享 (Creative Commons) 署名—非商业性使用—相同方式共享 4.0公共许可协议国际版</h3><p>通过行使本协议所授予的权利（定义如下），您接受并同意受到知识共享(Creative Commons)署名—非商业性使用—相同方式共享4.0国际公共许可协议（以下简称“本公共许可协议”）的约束。从合同解释的角度来看，您获得授权的对价是接受本协议的条款，许可人授予您这些权利的对价是可以通过采用本协议条款发布授权作品(material)而获得利益。</p><p><strong>第一条 定义</strong></p><ol><li><strong>演绎作品(Adapted Material)：</strong> 指受到著作权与类似权利保护的，基于授权作品(Licensed Material)而创作的作品(material)，例如对授权作品(Licensed Material)的翻译、改编、编排、改写或其他依据著作权与类似权利需要获得所有人许可的修改。为本公共许可协议之目的，当授权作品(Licensed Material)为音乐作品、表演或录音时，将其依时间序列关系与动态影像配合一致而形成的作品，视为演绎作品(Adapted Material)。</li><li><strong>演绎作者的许可：</strong> 指您依据本公共许可协议对在演绎作品(Adapted Material)中自己所贡献的部分所享有的著作权与类似权利进行授权的协议。</li><li><strong>署名—非商业性使用—相同方式共享兼容协议：</strong> 指在 <a href="https://creativecommons.org/compatiblelicenses" target="_blank" rel="noopener">creativecommons.org/compatiblelicenses</a> 上列出且经知识共享组织(Creative Commons)认可、实质上与本公共许可协议相当的协议。</li><li><strong>著作权与类似权利：</strong> 指著作权和/或与著作权紧密联系的类似权利。类似权利包括但不限于：表演者权、广播组织权、录音录像制作者权、以及数据库特别权利，而不论上述权利的定义和归类如何。为本公共许可协议之目的， <a href="https://nine-pascal.gitee.io/posts/1208d8c2/#s2b">第二条b款第(1)项与第(2)项</a> 所列权利不属于著作权与类似权利。</li><li><strong>有效的技术措施：</strong> 指根据各司法管辖区遵循《世界知识产权组织版权条约》（1996年12月20日通过）第十一条或类似国际协定项下的义务所制定的法律，在没有适当的授权的情况下，禁止使用者规避的技术措施。</li><li><strong>例外与限制：</strong> 指合理使用(Fair Dealing and Fair Use)和/或其他适用于您对授权作品(Licensed Material)的使用的著作权与类似权利的例外或限制。</li><li><strong>授权要素：</strong> 指知识共享公共许可协议(CCPL)名称中所包含的协议特征。本公共许可协议的授权要素包括：署名、非商业性使用和相同方式共享。</li><li><strong>授权作品(Licensed Material)：</strong> 指许可人通过本公共许可协议授权的文学、艺术作品(artistic or literary work)，数据库或其他作品(material)。</li><li><strong>协议所授予的权利：</strong> 指依据本公共许可协议的条款和条件所授予您的各项权利，限于适用于您对授权作品(Licensed Material)的使用且许可人有权许可的著作权与类似权利。</li><li><strong>许可人：</strong> 指通过本公共许可协议进行授权的个人或组织。</li><li><strong>非商业性使用：</strong> 指该使用的主要意图或者指向并非获取商业优势或金钱报酬。为本公共许可协议之目的，以数字文件共享或类似方式，用授权作品(Licensed Material)交换其他受到著作权与类似权利保护的作品(material)是非商业性使用，只要该交换不涉及金钱报酬的支付。</li><li><strong>分享：</strong> 指以需要“协议所授予的权利”许可的任何方法或程序向公众提供作品(material)，包括复制、公共展示、公开表演、发行、散布、传播、进口或提供作品(material)给公众以便其能在其选定的时间和地点接收作品(material)。</li><li><strong>数据库特别权利：</strong> 指除了著作权之外，衍生于1996年3月11日通过的《欧洲议会与欧盟理事会关于数据库法律保护的指令》(Directive 96/9/EC)及其修改或后续版本的权利，或其他国家或地区本质上与之等同的权利。</li><li><strong>您：</strong> 指依据本公共许可协议行使其所获得授予之权利的个人或机构。 <strong>“您的”</strong> 有相应的含义。</li></ol><p><strong>第二条 授权范围</strong></p><ol><li>授权<ol><li>根据本公共许可协议的条款，许可人授予您在全球范围内，免费的、不可再许可、非独占、不可撤销的许可，以对授权作品(Licensed Material)行使以下“协议所授予的权利”：<ol><li>复制和分享授权作品(Licensed Material)的全部或部分，仅限于非商业性使用；以及</li><li>为非商业目的创作、复制和分享演绎作品(Adapted Material)。</li></ol></li><li>例外和限制 为避免疑义，若著作权的例外和限制适用于您对授权作品(Licensed Material)的使用，本公共许可协议将不适用，您也无须遵守本公共许可协议之条款。</li><li>期限 本公共许可协议的期限规定于<a href="https://nine-pascal.gitee.io/posts/1208d8c2/#s6a">第六条 a</a> 款。</li><li>媒介和形式；允许的技术修改 许可人授权您在任何媒介以任何形式（不论目前已知的或未来出现的）行使本协议授予的权利，并为之进行必要的技术修改。许可人放弃和/或同意不主张任何权利以阻止您为了行使协议项下权利进行必要的技术修改，包括为规避有效技术措施所必须的技术修改。为了本公共许可协议之目的， 基于<a href="https://nine-pascal.gitee.io/posts/1208d8c2/#s2a4">第二条a款第(4)项</a> 进行的技术修改不构成演绎作品(Adapted Material)。</li><li>后续接受者<ol><li>来自许可人的要约——授权作品(Licensed Material) 本授权作品(Licensed Material)的每一个后续接受者都自动取得许可人的要约，以按照本公共许可协议的条款行使协议授予的权利。</li><li>来自许可人的额外要约——演绎作品(Adapted Material) 您基于授权作品(Licensed Material)创作的演绎作品(Adapted Material)的每一个后续接受者都自动取得许可人的要约，以按照您所适用的“演绎作者的许可”协议的条款行使协议所授予的权利。</li><li>禁止下游限制 若会限制授权作品(Licensed Material)后续接受者行使本协议所授予的权利，则您不得对授权作品(Licensed Material)提出或增加任何额外的或不同的条款，或使用任何有效技术措施。</li></ol></li><li>并非背书 本公共许可协议不构成、或不得被解释为允许您声明或主张：您或您对授权作品(Licensed Material)的使用与许可人或 <a href="https://nine-pascal.gitee.io/posts/1208d8c2/#s3a1Ai">第三条a款第(1)项(A)目(i)</a>所规定要求提供署名的权利人相关联，或得到其赞助、同意或被授予正式地位。</li></ol></li><li><strong>其他权利</strong><ol><li>依据本公共许可协议，著作人身权，例如保护作品完整权、形象权、隐私权或其他类似的人格权利，不在许可范围内。但是，在条件允许的情况下，许可人可以在必要范围内放弃和/或同意不主张其权利，以便您行使本协议所授予的权利。</li><li>本公共许可协议不适用于任何专利权或商标权许可。</li><li>在自愿的或可放弃的法定或强制许可机制下，许可人在最大可能范围内放弃对您因行使本协议所授予的权利而产生的使用费的权利，不论是直接收取或通过集体管理组织收取。在其他任何情况下（包括授权作品(Licensed Material)被商业性使用的情形），许可人明确保留收取使用费的任何权利。</li></ol></li></ol><p><strong>第三条 授权条件</strong></p><p>您行使被许可的权利明确受以下条件限制：</p><ol><li><p><strong>署名</strong></p><ol><li>若您分享本授权作品(Licensed Material)（包含修改格式），您必须：<ol><li>保留如下标识（如果许可人提供授权作品(Licensed Material)的同时提供如下标识）：<ol><li>以许可人要求的任何合理方式，标识本授权作品(Licensed Material)创作者和其他被指定署名的人的身份（包括指定的笔名）；</li><li>著作权声明；</li><li>有关本公共许可协议的声明；</li><li>有关免责的声明；</li><li>在合理可行情况下，本授权作品(Licensed Material)的网址(URI)或超链接；</li></ol></li><li>表明您是否修改本授权作品(Licensed Material)及保留任何先前修改的标记；及</li><li>表明授权作品(Licensed Material)依据本公共许可协议授权，并提供本公共许可协议全文，或者本公共许可协议的网址(URI)或超链接。</li></ol></li><li>依据您分享本授权作品(Licensed Material)的媒介、方法及情況，您可以采用任何合理方式满足<a href="https://nine-pascal.gitee.io/posts/1208d8c2/#s3a1">第三条a款第(1)项</a>的条件 。 例如，提供包含所要求信息来源的网址(URI)或超链接可算是合理地满足此处的条件。</li><li>如果许可人要求，您必须在合理可行的范围内移除<a href="https://nine-pascal.gitee.io/posts/1208d8c2/#s3a1A">第三条a款第(1)项(A)目</a> 所要求的任何信息。</li></ol></li><li><p>相同方式共享</p><p>除<a href="https://nine-pascal.gitee.io/posts/1208d8c2/#s3a">第三条a款</a>的条件外，如果您分享您创作的演绎作品(Adapted Material)，则下列条件也适用：</p><ol><li>您适用的“演绎作者的许可”协议必须是与本许可协议具有相同授权要素的知识共享(Creative Commons)许可协议（可以是本版本或后续版本），或者其他与“署名－非商业性使用－相同方式共享”协议兼容的许可协议。</li><li>您必须提供您适用的“演绎作者的许可”协议全文或者该许可协议的网址(URI)或超链接。依据您分享您的演绎作品(Adapted Material)所使用的媒介、方法及情況，您可以采用任何合理方式满足此条件。</li><li>您不得提出或施加任何附加或不同的条款或条件、或在演绎作品(Adapted Material)上应用任何有效的技术措施，以限制使用者行使依您所适用的“演绎作者的许可”协议所授予的权利。</li></ol></li></ol><p><strong>第四条 数据库特别权利</strong></p><p>当协议所授予的权利包含数据库特别权利，而该数据库特别权利适用于您对授权作品(Licensed Material)的使用时：</p><ol><li>为避免疑义， <a href="https://nine-pascal.gitee.io/posts/1208d8c2/#s2a1">第二条a款第(1) 项</a>授权您， 仅限于以非商业性目的，摘录、再利用、复制和分享全部或绝大部分数据库资料；</li><li>如果您将数据库资料的全部或绝大部分纳入您享有数据库特别权利的另一数据库，则您享有数据库特别权利的该数据库（而非其中的单个内容）视为演绎作品(Adapted Material)，适用<a href="https://nine-pascal.gitee.io/posts/1208d8c2/#s3b">第三条b款</a>的要求；</li><li>如果您分享全部或大部分该数据库的资料，您必须遵守 <a href="https://nine-pascal.gitee.io/posts/1208d8c2/#s3a">第三条a款</a> 规定的条件。</li></ol><p>为避免疑义，当协议所授予的权利包含其他著作权与类似权利时，<a href="https://nine-pascal.gitee.io/posts/1208d8c2/#s4">第四条</a>补充且不取代本公共许可协议所规定的您的义务。</p><p><strong>第五条 免责声明及责任限制条款</strong></p><ol><li><p><strong>除非许可人另有保证，否则在最大可能范围内，许可人按其现状和现有之基础提供授权作品(Licensed Material)，且没有就授权作品(Licensed Material)做出任何形式的陈述或保证：无论明示、默示、法定或其他形式，包括但不限于任何有关本授权作品(Licensed Material)的权属保证、可交易性、适于特定目的、未侵害他人权利、没有潜在或其他瑕疵、精确性或是否有错误，不管是否已知或可发现。当免责声明全部或部分不被允许时，此免责声明可能不适用于您。</strong></p></li><li><p><strong>在最大可能范围内， 对于任何因本公共许可协议或使用授权作品(Licensed Material)引起的直接的、特殊的、间接的、附随的、连带的、惩罚性的、警告性的，或其他的损失、成本、费用或损害，许可人不对您负任何法律上或其他的责任（包括但不限于过失责任）。当责任限制部分或全部不被允许时，该限制不适用于您。</strong></p></li><li><p>前述免责及责任限制声明，应尽可能以最接近于完全排除全部责任的方式解释。</p></li></ol><p><strong>第六条 期限与终止</strong></p><ol><li><p>本公共许可协议在著作权与类似权利存续期间内有效。然而，如果您没有遵守此公共许可协议，则您依据此公共许可协议享有的权利自动终止。</p></li><li><p>当您使用本授权作品(Licensed Material)的权利根据<a href="https://nine-pascal.gitee.io/posts/1208d8c2/#s6a">第六条a款</a>终止时，您的权利在下述情况下恢复：</p><ol><li>自违反协议的行为纠正之日起自动恢复，但须在您发现违反情形后30日内纠正；或</li><li>根据许可人明示恢复权利的意思表达。</li></ol><p>为避免疑义，本公共许可协议</p><p>第六条b款</p><p>不影响许可人就您违反本公共许可协议的行为寻求法律救济。</p></li><li><p>为避免疑义，许可人也可在任何时间，以另外的条款或条件提供本授权作品(Licensed Material)，或者停止传播本授权作品(Licensed Material)；然而，许可人此种行为不会终止本公共许可协议。</p></li><li><p>本协议<a href="https://nine-pascal.gitee.io/posts/1208d8c2/#s1">第一</a>、<a href="https://nine-pascal.gitee.io/posts/1208d8c2/#s5">五</a>、<a href="https://nine-pascal.gitee.io/posts/1208d8c2/#s6">六</a>、<a href="https://nine-pascal.gitee.io/posts/1208d8c2/#s7">七</a>及第<a href="https://nine-pascal.gitee.io/posts/1208d8c2/#s8">八</a>条，不因本公共许可协议终止而失效。</p></li></ol><p><strong>第七条 其他条款和条件</strong></p><ol><li>除非明示同意，否则许可人不受您表达的任何附加或不同条款或条件约束。</li><li>本公共许可协议未提及的关于授权作品(Licensed Material)之任何安排、共识或协议，不属于且独立于本公共许可协议的条款及条件。</li></ol><p><strong>第八条 解释</strong></p><ol><li>为避免疑义，本许可协议不会也不应被解释为减少、限制、约束或施加条件于无需本公共许可协议授权即可依法行使的对授权作品(Licensed Material)的任何使用。</li><li>在最大可能范围内，如果本公共许可协议的任何条款被视为无法执行，该条款在必要的最小限度内，自动调整至可以执行。如果该条款不能被调整，其应自本公共许可协议中排除适用，不影响其余条款的效力。</li><li>除非许可人明示同意，本公共许可协议的任何条款或条件均不得放弃。</li><li>本公共许可协议条款不构成、也不得被解释为限制或者放弃适用于许可人或您的特权或豁免，包括豁免于任何司法管辖区或行政机构的法律程序。</li></ol><p>知识共享组织(Creative Commons)不是其公共许可协议的一方 。尽管如此，知识共享组织(Creative Commons)可以选择其中一种公共许可协议适用于其发表的作品(material)，在此种情况下被视为许可人。知识共享公共许可协议 <a href="https://creativecommons.org/publicdomain/zero/1.0/legalcode.zh-Hans" target="_blank" rel="noopener">(CCPL)</a>的文本属于公共领域，适用CC0公共许可协议。 除用于向公众表明本作品(material)是依照知识共享(Creative Commons)公共许可协议授权，或发布于<a href="https://creativecommons.org/policies" target="_blank" rel="noopener">creativecommons.org/policies</a>的知识共享组织(Creative Commons)政策另有规定允许以外，如未经知识共享组织(Creative Commons)事先书面同意，任何一方均不得使用“知识共享”(Creative Commons)商标和其他相关商标及标识。包括但不限于，将该商标或标识用于对知识共享公共许可协议(CCPL)做出的未经同意的修改，或与授权作品(Licensed Material)使用有关的其他安排、共识或协议。为避免疑义，本段关于商标的限制性规定不构成公共许可协议之一部分。</p><p>您可以点击<a href="https://creativecommons.org/" target="_blank" rel="noopener">此处</a>联系知识共享(Creative Commons)组织。</p><hr>]]></content>
+    
+    <summary type="html">
+    
+      &lt;blockquote&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.zh-Hans&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;知识共享(Creative Commons) 署名—非商业性使用—相同方式共享 4.0 协议国际版&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/blockquote&gt;
+    
+    </summary>
+    
+    
+      <category term="发布" scheme="https://Nine-Pascal.gitee.io/categories/%E5%8F%91%E5%B8%83/"/>
+    
+    
+      <category term="法律" scheme="https://Nine-Pascal.gitee.io/tags/%E6%B3%95%E5%BE%8B/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>半小时漫画经济学</title>
+    <link href="https://nine-pascal.gitee.io/posts/f8b1e81f/"/>
+    <id>https://nine-pascal.gitee.io/posts/f8b1e81f/</id>
+    <published>2020-10-31T13:36:32.000Z</published>
+    <updated>2020-10-31T13:36:32.000Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote><ul><li>钱源于债务!</li></ul></blockquote><a id="more"></a><h1 id="半小时漫画经济学"><a class="markdownIt-Anchor" href="#半小时漫画经济学"></a> 半小时漫画经济学</h1><ul><li>所有的流血背后，深层次的原因都是经济。</li><li>交易多了，市场就大了，货币随之出现，资源就这么流动起来。没错，经济就这样出现了。</li><li>房子大了，人多了，大家开始不满足于眼前的苟且，追求起了诗和远方的钢铁。<ul><li>需求多了，产能跟不上，于是人类迎来了工业革命。</li></ul></li><li>农业是骨架，工业填充了血肉，其他行业是各种器官，它们一起组成了经济这副躯体。</li><li>原料、产品、服务、钱等资源，都在市场上有条不紊地流动着，去到它们能实现价值的地方，这就是咱们熟悉的经济——的大概。</li><li>在古代，很长一段历史里，贝壳霸占着货币榜榜首，成为当时的主流货币。 这也就是咱们汉字里跟钱有关的，大多数是贝字旁的原因。</li><li>这种有借有还的品质，就是传说中的——没毛病啊!所以现在越来越多的人开始相信这种说法： 信用产生了货币! 人们交换、欠债什么的，其实玩的都是信用，只要有人相信，贝壳、石头、金银，甚至纸，都能当钱花。</li><li>还有一些公共服务，需要钱来维持，比如： 这些钱，归根结底也是大家出，比如商场卖东西，要缴城建税和教育费附加。 所以逛商场，也是建设家园，资助教育!</li><li>地主们把地租给农民，然后收租。换个角度看，其实就是把地借给农民，收的地租相当于利息。</li><li>原来大家花钱有很多目的，对于不同的目的，大家愿意花的钱不同。自己买围巾，花的是生活账户，不舍得掏钱。 但给女神买，花的是情感账户，贵点也愿意。</li><li>直接送帽子。 你会拿帽子和围巾比，觉得帽子是个便宜货，内心毫无波澜。 加一元换帽子。 你会拿一元钱和帽子比。哎呀!太值了!</li><li>大家购物时，会先找差不多的货比一比，一般不会选高价和低价，而是选中间价。</li><li>在金融上，说不上有没有道德，都只是一种操作。 ——乔治·索罗斯</li></ul><hr>]]></content>
+    
+    <summary type="html">
+    
+      &lt;blockquote&gt;&lt;ul&gt;&lt;li&gt;钱源于债务!&lt;/li&gt;&lt;/ul&gt;&lt;/blockquote&gt;
+    
+    </summary>
+    
+    
+      <category term="书道是乾坤" scheme="https://Nine-Pascal.gitee.io/categories/%E4%B9%A6%E9%81%93%E6%98%AF%E4%B9%BE%E5%9D%A4/"/>
+    
+    
+      <category term="论述" scheme="https://Nine-Pascal.gitee.io/tags/%E8%AE%BA%E8%BF%B0/"/>
+    
+      <category term="陈磊·半小时漫画团队" scheme="https://Nine-Pascal.gitee.io/tags/%E9%99%88%E7%A3%8A%C2%B7%E5%8D%8A%E5%B0%8F%E6%97%B6%E6%BC%AB%E7%94%BB%E5%9B%A2%E9%98%9F/"/>
+    
+      <category term="江苏凤凰文艺出版社 (2018年4月20日)" scheme="https://Nine-Pascal.gitee.io/tags/%E6%B1%9F%E8%8B%8F%E5%87%A4%E5%87%B0%E6%96%87%E8%89%BA%E5%87%BA%E7%89%88%E7%A4%BE-2018%E5%B9%B44%E6%9C%8820%E6%97%A5/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>课程共享计划</title>
+    <link href="https://nine-pascal.gitee.io/posts/1b24d637/"/>
+    <id>https://nine-pascal.gitee.io/posts/1b24d637/</id>
+    <published>2020-05-12T05:14:15.000Z</published>
+    <updated>2020-05-12T05:14:15.000Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote><ul><li>课程共享计划的简介和初步计划, 2020-02-15</li><li>目前计划已经更改，取消笔记形式，以发表图书为主, 2020-03-18</li><li>仅保留<code>README</code>，仓库开始清空, 2021-01-10</li><li>计划上传部分公式数据，降低复习成本, 2021-02-05</li><li>放弃, 2021-03-16</li></ul></blockquote><a id="more"></a><h1 id="课程共享计划"><a class="markdownIt-Anchor" href="#课程共享计划"></a> 课程共享计划</h1><h2 id="preface"><a class="markdownIt-Anchor" href="#preface"></a> Preface</h2><p>（引用自 <a href="https://github.com/QSCTech/zju-icicles" target="_blank" rel="noopener">QSCTech/zju-icicles</a> ）</p><p>来到一所大学，从第一次接触许多课，直到一门一门完成，这个过程中我们时常收集起许多资料和情报。</p><p>有些是需要在网上搜索的电子书，每次见到一门新课程，Google 一下教材名称，有的可以立即找到，有的却是要花费许多眼力；有些是历年试卷或者 A4 纸，前人精心收集制作，抱着能对他人有用的想法公开，却需要在各个群中摸索以至于从学长手中代代相传；有些是上完一门课才恍然领悟的技巧，原来这门课重点如此，当初本可以更轻松地完成得更好……</p><p>我也曾很努力地收集各种课程资料，但到最后，某些重要信息的得到却往往依然是纯属偶然。这种状态时常令我感到后怕与不安。我也曾在课程结束后终于有了些许方法与总结，但这些想法无处诉说，最终只能把花费时间与精力才换来的经验耗散在了漫漫的遗忘之中。</p><p>我为这一年一年，这么多人孤军奋战的重复劳动感到不平。</p><p>我希望能够将这些隐晦的、不确定的、口口相传的资料和经验，变为公开的、易于获取的和大家能够共同完善、积累的共享资料。</p><p><strong>我希望只要是前人走过的弯路，后人就不必再走。</strong> 这，是我建立这个项目的原因。</p><h2 id="gitee"><a class="markdownIt-Anchor" href="#gitee"></a> Gitee</h2><p>为什么采用 Gitee 项目作为平台呢？</p><ul><li>QQ 群大多为年级和专业所分隔，无法长期共同地保有；况且群文件也缺乏组织。</li><li>GitHub 项目可以使用目录进行文件组织，并且每个目录均可以在显示文件列表的同时显示一个 README，十分适合本项目的需求。带有便捷的 Issue 和 Pull Request 协作功能，并且可以方便地对贡献的质量进行监督和调整。</li><li>国内上 Gitee 没有太多障碍。我也连线过华为的销售，但介于华为的弹性云存储机制我怕我一天损失一个亿……</li></ul><h2 id="contribution"><a class="markdownIt-Anchor" href="#contribution"></a> Contribution</h2><p><strong>欢迎贡献！</strong></p><p><strong>欢迎贡献！</strong></p><p><strong>欢迎贡献！</strong></p><p><em>——因为很重要所以说了三遍</em></p><p>Issue、PR、纠错、资料、选课/考试攻略，完全欢迎！</p><p>提交 PR：Fork 本项目，然后在 GitHub 网页端点击 Upload File 上传文件，发起 PR 即可。留意一下项目的文件组织喔。</p><p>或者也可以直接附加在 Issue 中，由维护者进行添加。</p><p>对于教师的评价请一律使用姓名拼音首字母缩写；至于教师提供的课件就不用上传了，因为每年说不定会有更新的嘛。</p><p>由于本项目体积很大，故可以采用在Github Web端直接上传的方式，具体操作如下：</p><ol><li>首先Fork本项目</li><li>上传文件到已有文件夹：打开对应文件夹，点击绿色Download按钮旁的upload，上传你的文件。</li><li>上传文件到新文件夹：打开任意文件夹，点击绿色Download按钮旁的upload，<strong>把浏览器地址栏中文件夹名称改为你想要新建的文件夹名称，然后回车</strong>，上传你的文件。</li></ol><h2 id="disclaimer"><a class="markdownIt-Anchor" href="#disclaimer"></a> Disclaimer</h2><p>这不是图书馆。 我只对已授权对项目中信息的准确性或真实性做承诺。</p><p><strong>如果有侵权情况，麻烦您发送必要的信息至 <a href="mailto:quarter-past-nine@tutanota.com">quarter-past-nine@tutanota.com</a> ，我们将会从仓库中彻底清除这些文件。带来不便还请您谅解。</strong></p><h2 id="license"><a class="markdownIt-Anchor" href="#license"></a> License</h2><p>部分资料来自网络，相关权利由原作者所有。</p><p>当然，我绝对不会为收集到的资料收费，或是尝试收取捐赠。</p><p>我只是尝试为后来的同学节省一些时间。</p><hr>]]></content>
+    
+    <summary type="html">
+    
+      &lt;blockquote&gt;&lt;ul&gt;&lt;li&gt;课程共享计划的简介和初步计划, 2020-02-15&lt;/li&gt;&lt;li&gt;目前计划已经更改，取消笔记形式，以发表图书为主, 2020-03-18&lt;/li&gt;&lt;li&gt;仅保留&lt;code&gt;README&lt;/code&gt;，仓库开始清空, 2021-01-10&lt;/li&gt;&lt;li&gt;计划上传部分公式数据，降低复习成本, 2021-02-05&lt;/li&gt;&lt;li&gt;放弃, 2021-03-16&lt;/li&gt;&lt;/ul&gt;&lt;/blockquote&gt;
+    
+    </summary>
+    
+    
+      <category term="发布" scheme="https://Nine-Pascal.gitee.io/categories/%E5%8F%91%E5%B8%83/"/>
+    
+    
+      <category term="课程共享计划" scheme="https://Nine-Pascal.gitee.io/tags/%E8%AF%BE%E7%A8%8B%E5%85%B1%E4%BA%AB%E8%AE%A1%E5%88%92/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Git Commit 指南</title>
+    <link href="https://nine-pascal.gitee.io/posts/6810be82/"/>
+    <id>https://nine-pascal.gitee.io/posts/6810be82/</id>
+    <published>2020-05-10T17:18:57.000Z</published>
+    <updated>2020-05-10T17:18:57.000Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote><ul><li>git commit -m “hello world”</li></ul></blockquote><a id="more"></a><h1 id="git-commit-指南"><a class="markdownIt-Anchor" href="#git-commit-指南"></a> Git Commit 指南</h1><h2 id="介绍"><a class="markdownIt-Anchor" href="#介绍"></a> 介绍</h2><p>在 Git 中，每次提交代码，都要写 Commit message（提交说明），否则就不允许提交。这个操作将通过 git commit 完成。</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">git commit -m <span class="string">"hello world"</span></span><br></pre></td></tr></table></figure><blockquote><p>上面代码的-m参数，就是用来指定 commit mesage 的。</p></blockquote><p>如果一行不够，可以只执行git commit，就会跳出文本编译器，让你写多行。</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">git commit</span><br></pre></td></tr></table></figure><h2 id="格式"><a class="markdownIt-Anchor" href="#格式"></a> 格式</h2><p>Commit message 包括三个部分：Header，Body 和 Footer。可以用下方的格式表示它的结构。</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">&lt;<span class="built_in">type</span>&gt;(&lt;scope&gt;): &lt;subject&gt;// 空一行&lt;body&gt;// 空一行&lt;footer&gt;</span><br></pre></td></tr></table></figure><blockquote><p>其中，Header 是必需的，Body 和 Footer 可以省略(默认忽略)，一般我们在 <code>git commit</code> 提交时指定的 <code>-m</code> 参数，就相当于默认指定 Header。</p></blockquote><blockquote><p>不管是哪一个部分，任何一行都不得超过72个字符（或100个字符）。这是为了避免自动换行影响美观。</p></blockquote><h3 id="header"><a class="markdownIt-Anchor" href="#header"></a> Header</h3><p>Header部分只有一行，包括三个字段：type（必需）、scope（可选）和subject（必需）。</p><h4 id="type"><a class="markdownIt-Anchor" href="#type"></a> type</h4><ul><li><strong>feat</strong>：新功能（feature）</li><li><strong>fix</strong>：修补bug</li><li><strong>docs</strong>：文档（documentation）</li><li><strong>style</strong>： 格式（不影响代码运行的变动）</li><li><strong>refactor</strong>：重构（即不是新增功能，也不是修改bug的代码变动）</li><li><strong>test</strong>：增加测试</li><li><strong>chore</strong>：构建过程或辅助工具的变动</li></ul><p>如果 type 为 feat 和 fix ，则该 commit 将肯定出现在 Change log 之中。其他情况（docs、chore、style、refactor、test）由你决定，要不要放入 Change log，建议是不要。</p><h4 id="scope"><a class="markdownIt-Anchor" href="#scope"></a> scope</h4><p>scope 用于说明 commit 影响的范围，比如数据层、控制层、视图层等等，视仓库不同而不同。</p><h4 id="subject"><a class="markdownIt-Anchor" href="#subject"></a> subject</h4><p>subject 是 commit 目的的简短描述，不超过50个字符。</p><ul><li>以动词开头，使用第一人称现在时，比如 change，而不是 changed 或 changes</li><li>第一个字母小写</li><li>结尾不加句号（.）</li></ul><h3 id="body"><a class="markdownIt-Anchor" href="#body"></a> Body</h3><p>Body 部分是对本次 commit 的详细描述，可以分成多行。下面是一个范例。</p><blockquote><p>More detailed explanatory text, if necessary. Wrap it to about 72 characters or so. Further paragraphs come after blank lines.- Bullet points are okay, too- Use a hanging indent</p></blockquote><p>有两个注意点。</p><ul><li>使用第一人称现在时，比如使用change而不是changed或changes。</li><li>应该说明代码变动的动机，以及与以前行为的对比。</li></ul><h3 id="footer"><a class="markdownIt-Anchor" href="#footer"></a> Footer</h3><p>Footer 部分只用于两种情况。</p><h4 id="1-不兼容变动"><a class="markdownIt-Anchor" href="#1-不兼容变动"></a> 1、不兼容变动</h4><p>如果当前代码与上一个版本不兼容，则 Footer 部分以 BREAKING CHANGE 开头，后面是对变动的描述、以及变动理由和迁移方法。</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br></pre></td><td class="code"><pre><span class="line">BREAKING CHANGE: isolate scope bindings definition has changed.</span><br><span class="line"></span><br><span class="line">    To migrate the code follow the example below:</span><br><span class="line"></span><br><span class="line">    Before:</span><br><span class="line"></span><br><span class="line">    scope: &#123;</span><br><span class="line">      myAttr: <span class="string">'attribute'</span>,</span><br><span class="line">    &#125;</span><br><span class="line"></span><br><span class="line">    After:</span><br><span class="line"></span><br><span class="line">    scope: &#123;</span><br><span class="line">      myAttr: <span class="string">'@'</span>,</span><br><span class="line">    &#125;</span><br><span class="line"></span><br><span class="line">    The removed `inject` wasn<span class="string">'t generaly useful for directives so there should be no code using it.</span></span><br></pre></td></tr></table></figure><h4 id="2-关闭-issue"><a class="markdownIt-Anchor" href="#2-关闭-issue"></a> 2、关闭 Issue</h4><p>如果当前 commit 针对某个 issue，那么可以在 Footer 部分关闭这个 issue 。</p><blockquote><p>Closes #234</p></blockquote><p>也可以一次关闭多个 issue 。</p><blockquote><p>Closes #123, #245, #992</p></blockquote><h3 id="revert"><a class="markdownIt-Anchor" href="#revert"></a> Revert</h3><p>还有一种特殊情况，如果当前 commit 用于撤销以前的 commit，则必须以 <code>revert:</code> 开头，后面跟着被撤销 Commit 的 Header。</p><blockquote><p>revert: feat(pencil): add ‘graphiteWidth’ option</p><p>This reverts commit 667ecc1654a317a13331b17617d973392f415f02.</p></blockquote><p>Body部分的格式是固定的，必须写成 <code>This reverts commit .</code>，其中的 hash 是被撤销 commit 的 SHA 标识符。</p><p>如果当前 commit 与被撤销的 commit，在同一个发布（release）里面，那么它们都不会出现在 Change log 里面。如果两者在不同的发布，那么当前 commit，会出现在 Change log 的 Reverts 小标题下面。</p><hr>]]></content>
+    
+    <summary type="html">
+    
+      &lt;blockquote&gt;&lt;ul&gt;&lt;li&gt;git commit -m “hello world”&lt;/li&gt;&lt;/ul&gt;&lt;/blockquote&gt;
+    
+    </summary>
+    
+    
+      <category term="技巧" scheme="https://Nine-Pascal.gitee.io/categories/%E6%8A%80%E5%B7%A7/"/>
+    
+    
+      <category term="git" scheme="https://Nine-Pascal.gitee.io/tags/git/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>pip 换源</title>
+    <link href="https://nine-pascal.gitee.io/posts/abad564b/"/>
+    <id>https://nine-pascal.gitee.io/posts/abad564b/</id>
+    <published>2020-02-25T01:55:01.000Z</published>
+    <updated>2020-02-25T01:55:01.000Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote><ul><li><p>pip 不换源真的能用吗</p></li><li><p><code>pip install requests -i https://pypi.tuna.tsinghua.edu.cn/simple {包名称}</code></p></li></ul></blockquote><a id="more"></a><h1 id="pip-换源"><a class="markdownIt-Anchor" href="#pip-换源"></a> pip 换源</h1><p>用pip管理工具安装库文件时，默认使用国外的源文件，因此在国内的下载速度会比较慢，可能只有50KB/s。幸好，国内的一些顶级科研机构已经给我们准备好了各种镜像，下载速度可达2MB/s。</p><h2 id="设置延迟时间"><a class="markdownIt-Anchor" href="#设置延迟时间"></a> 设置延迟时间</h2><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">pip --default-timeout=6000 install &#123;包名称&#125;</span><br></pre></td></tr></table></figure><p><code>--default-timeout=6000</code>写在包名称前面或后面都可以</p><h2 id="pip国内的一些镜像"><a class="markdownIt-Anchor" href="#pip国内的一些镜像"></a> pip国内的一些镜像：</h2><ul><li>阿里云 <a href="https://mirrors.aliyun.com/pypi/simple/" target="_blank" rel="noopener">https://mirrors.aliyun.com/pypi/simple/</a></li><li>中国科技大学 <a href="https://pypi.mirrors.ustc.edu.cn/simple/" target="_blank" rel="noopener">https://pypi.mirrors.ustc.edu.cn/simple/</a></li><li>豆瓣(douban) <a href="https://pypi.douban.com/simple/" target="_blank" rel="noopener">https://pypi.douban.com/simple/</a></li><li>清华大学 <a href="https://pypi.tuna.tsinghua.edu.cn/simple/" target="_blank" rel="noopener">https://pypi.tuna.tsinghua.edu.cn/simple/</a></li><li>中国科学技术大学 <a href="https://pypi.mirrors.ustc.edu.cn/simple/" target="_blank" rel="noopener">https://pypi.mirrors.ustc.edu.cn/simple/</a></li></ul><p>ps. 如果无法使用尝试将 http 换成 https</p><h2 id="一键修改镜像"><a class="markdownIt-Anchor" href="#一键修改镜像"></a> 一键修改镜像</h2><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">pip install pip -U  <span class="comment">#升级pip</span></span><br><span class="line">pip config <span class="built_in">set</span> global.index-url https://pypi.tuna.tsinghua.edu.cn/simple  <span class="comment">#将清华的镜像源设置为默认的镜像源</span></span><br></pre></td></tr></table></figure><h2 id="临时修改镜像"><a class="markdownIt-Anchor" href="#临时修改镜像"></a> 临时修改镜像：</h2><p>可以在使用pip的时候在后面加上-i参数，指定pip源<br>eg. <code>pip install requests -i https://pypi.tuna.tsinghua.edu.cn/simple {包名称}</code></p><h2 id="永久修改"><a class="markdownIt-Anchor" href="#永久修改"></a> 永久修改</h2><h3 id="windows修改"><a class="markdownIt-Anchor" href="#windows修改"></a> windows修改：</h3><p>在<code>c:\user(或者用户)\电脑的用户名\</code>，目录下创建一个命名为“pip”的文件夹（如：<code>C:\Users\Administrator\pip</code>），在该文件夹下创建一个命名为“<code>pip.ini</code>”的文件，在该文件中写入以下内容：</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line">[global]</span><br><span class="line">index-url=https://pypi.tuna.tsinghua.edu.cn/simple</span><br><span class="line">[install]</span><br><span class="line">trusted-host=pypi.tuna.tsinghua.edu.cn</span><br><span class="line"><span class="built_in">disable</span>-pip-version-check = <span class="literal">true</span></span><br><span class="line">timeout = 300</span><br></pre></td></tr></table></figure><h3 id="linux-or-mac-修改"><a class="markdownIt-Anchor" href="#linux-or-mac-修改"></a> linux or mac 修改:</h3><p>在用户的家目录下面创建名为<code>.pip</code>文件夹，在创建好的<code>.pip</code>文件夹中创建名为<code>pip.conf</code>的文件，修改 <code>~/.pip/pip.conf</code> (没有就创建一个)， 内容如下：</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">[global]</span><br><span class="line">timeout = 300  <span class="comment"># 设置超时，单位s</span></span><br><span class="line">index-url = https://pypi.tuna.tsinghua.edu.cn/simple/  <span class="comment"># 指定优先下载源</span></span><br><span class="line">extra-index-url= https://pypi.mirrors.ustc.edu.cn/simple/   <span class="comment"># 第二下载源</span></span><br></pre></td></tr></table></figure><hr>]]></content>
+    
+    <summary type="html">
+    
+      &lt;blockquote&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;pip 不换源真的能用吗&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;code&gt;pip install requests -i https://pypi.tuna.tsinghua.edu.cn/simple {包名称}&lt;/code&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/blockquote&gt;
+    
+    </summary>
+    
+    
+      <category term="技巧" scheme="https://Nine-Pascal.gitee.io/categories/%E6%8A%80%E5%B7%A7/"/>
+    
+    
+      <category term="python" scheme="https://Nine-Pascal.gitee.io/tags/python/"/>
+    
+      <category term="pip" scheme="https://Nine-Pascal.gitee.io/tags/pip/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>编码注释规范</title>
+    <link href="https://nine-pascal.gitee.io/posts/b2f50d02/"/>
+    <id>https://nine-pascal.gitee.io/posts/b2f50d02/</id>
+    <published>2020-02-05T04:23:09.000Z</published>
+    <updated>2020-02-05T04:23:09.000Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote><ul><li>有很多注释不知道从什么地方开始写起，这里是我的一些标准</li></ul></blockquote><a id="more"></a><h1 id="编码注释规范"><a class="markdownIt-Anchor" href="#编码注释规范"></a> 编码注释规范</h1><h2 id="说明性文件头部"><a class="markdownIt-Anchor" href="#说明性文件头部"></a> 说明性文件头部</h2><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br></pre></td><td class="code"><pre><span class="line">Copyright(C), <span class="number">2020</span><span class="number">-2021</span>, Nine Pascal. All rights reserved.</span><br><span class="line">文件名｜File Name: &lt;文件名&gt; &lt;作者&gt; &lt;版本号&gt; &lt;日期&gt;</span><br><span class="line">功能｜Description: 用于详细说明此程序文件完成的主要功能与其他模块或函数的接口，</span><br><span class="line">             输出值、取值范围、含义及参数间的控制、顺序、独立或依赖等关</span><br><span class="line">             系</span><br><span class="line">主要函数列表｜Function List: &lt;函数名&gt;&lt;功能概要说明&gt;</span><br><span class="line">备注｜Others: 其他内容的说明</span><br><span class="line">历史修改信息｜History: &lt;作者&gt; &lt;时间&gt; &lt;版本号&gt; &lt;功能描述信息&gt;</span><br></pre></td></tr></table></figure><h2 id="源文件头部"><a class="markdownIt-Anchor" href="#源文件头部"></a> 源文件头部</h2><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line">Copyright(C), <span class="number">2020</span><span class="number">-2021</span>, Nine Pascal. All rights reserved.</span><br><span class="line">文件名｜FileName: &lt;文件名&gt; &lt;作者&gt; &lt;版本号&gt; &lt;日期&gt; </span><br><span class="line">功能｜Description: 模块描述信息</span><br><span class="line">版本号｜Version: 当前版本信息</span><br><span class="line">主要函数列表｜Function List: 主要函数列表</span><br><span class="line">历史修改信息｜History: &lt;作者&gt; &lt;时间&gt; &lt;版本号&gt; &lt;功能描述信息&gt;</span><br></pre></td></tr></table></figure><h2 id="函数头部注释"><a class="markdownIt-Anchor" href="#函数头部注释"></a> 函数头部注释</h2><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br></pre></td><td class="code"><pre><span class="line">函数名｜Function: 函数名</span><br><span class="line">功能｜Descripiton: 函数功能、性能等的描述</span><br><span class="line">被调用函数｜Calls: 被本函数调用的函数清单</span><br><span class="line">调用本函数至｜Called By: 调用本函数的函数清单</span><br><span class="line">被访问的表｜Table Accessed: 被访问的表（仅针对数据库操作）</span><br><span class="line">被修改的表｜Table Updated: 被修改的表（仅针对数据库操作）</span><br><span class="line">输入｜Input: 输入参数说明 &lt;作用&gt; &lt;取值&gt; &lt;参数间关系&gt;</span><br><span class="line">输出｜Output: 输出参数说明</span><br><span class="line">返回值｜Return: 函数返回值的说明</span><br><span class="line">备注｜Others: 其他补充说明</span><br></pre></td></tr></table></figure><h2 id="数据结构声明"><a class="markdownIt-Anchor" href="#数据结构声明"></a> 数据结构声明</h2><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><span class="line">名称｜Variable: 数据结构名称</span><br><span class="line">功能｜Descripiton: 功能、性能等的描述</span><br><span class="line">被调用函数｜Calls: 被本函数调用的函数清单</span><br><span class="line">调用本函数至｜Called By: 调用本函数的函数清单</span><br><span class="line">输入｜Input: 输入参数说明 &lt;作用&gt; &lt;取值&gt; &lt;被调用变量&gt;</span><br><span class="line">输出｜Output: 输出参数说明 &lt;作用&gt; &lt;取值&gt; &lt;调用本变量至&gt;</span><br><span class="line">备注｜Others: 其他补充说明</span><br></pre></td></tr></table></figure><h2 id="全局变量声明"><a class="markdownIt-Anchor" href="#全局变量声明"></a> 全局变量声明</h2><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">名称｜Variable: 变量的名称</span><br><span class="line">功能｜Descripiton: 功能、性能等的描述</span><br><span class="line">输入｜Input: 输入参数说明 &lt;作用&gt; &lt;取值&gt; &lt;被调用变量&gt;</span><br><span class="line">输出｜Output: 输出参数说明 &lt;作用&gt; &lt;取值&gt; &lt;调用本变量至&gt;</span><br><span class="line">备注｜Others: 其他补充说明</span><br></pre></td></tr></table></figure><hr>]]></content>
+    
+    <summary type="html">
+    
+      &lt;blockquote&gt;&lt;ul&gt;&lt;li&gt;有很多注释不知道从什么地方开始写起，这里是我的一些标准&lt;/li&gt;&lt;/ul&gt;&lt;/blockquote&gt;
+    
+    </summary>
+    
+    
+      <category term="发布" scheme="https://Nine-Pascal.gitee.io/categories/%E5%8F%91%E5%B8%83/"/>
+    
+    
+      <category term="注释" scheme="https://Nine-Pascal.gitee.io/tags/%E6%B3%A8%E9%87%8A/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>图片文件压缩程序 README</title>
+    <link href="https://nine-pascal.gitee.io/posts/b0db2efd/"/>
+    <id>https://nine-pascal.gitee.io/posts/b0db2efd/</id>
+    <published>2020-01-05T04:23:09.000Z</published>
+    <updated>2020-01-05T04:23:09.000Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote><ul><li><p>图片压缩程序的使用简介，具体内容还没写咳咳</p></li><li><p>源代码分析会尽快上传的说</p></li></ul></blockquote><a id="more"></a><h1 id="图片文件压缩程序-readme"><a class="markdownIt-Anchor" href="#图片文件压缩程序-readme"></a> 图片文件压缩程序 README</h1><h2 id="程序设计目的"><a class="markdownIt-Anchor" href="#程序设计目的"></a> 程序设计目的</h2><p>当今无论是单反还是手机，拍摄出来的图片分辨率都高到离谱，甚至一张手机截图都能达到<code>MB</code>的级别，如果把图片直接长传到博客里面，对于博客内存是一个很大的占用；而如果使用图床，对于网络资源是一个很大的占用。</p><p>为了能够在减小博客服务器的内存负担同时减少图片压缩对于画质的损失，本程序通过调用<code>tinify</code>上传接口压缩图片，将图片大小压缩至<code>KB</code>级别。</p><p>目前存在问题：图片有横向和竖向两种，使用统一标准就难以提高效率<br>不成熟的解决方案：减少竖向图片数量，通过控制变量使得程序效率得到提升</p><h2 id="使用文档"><a class="markdownIt-Anchor" href="#使用文档"></a> 使用文档</h2><p><a href="https://tinify.cn/developers" target="_blank" rel="noopener">https://tinify.cn/developers</a></p><p><a href="https://tinify.cn/developers/reference/python" target="_blank" rel="noopener">https://tinify.cn/developers/reference/python</a></p><h2 id="致谢"><a class="markdownIt-Anchor" href="#致谢"></a> 致谢</h2><h2 id="license"><a class="markdownIt-Anchor" href="#license"></a> License</h2><p>部分资料来自网络，相关权利由原作者所有。<strong>如果有侵权情况，麻烦您发送必要的信息至 <a href="mailto:quarter-past-nine@tutanota.com">quarter-past-nine@tutanota.com</a> ，我们将会从仓库中彻底清除这些文件。带来不便还请您谅解。</strong></p><hr>]]></content>
+    
+    <summary type="html">
+    
+      &lt;blockquote&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;图片压缩程序的使用简介，具体内容还没写咳咳&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;源代码分析会尽快上传的说&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/blockquote&gt;
+    
+    </summary>
+    
+    
+      <category term="发布" scheme="https://Nine-Pascal.gitee.io/categories/%E5%8F%91%E5%B8%83/"/>
+    
+    
+      <category term="README" scheme="https://Nine-Pascal.gitee.io/tags/readme/"/>
+    
+      <category term="图片文件压缩程序" scheme="https://Nine-Pascal.gitee.io/tags/%E5%9B%BE%E7%89%87%E6%96%87%E4%BB%B6%E5%8E%8B%E7%BC%A9%E7%A8%8B%E5%BA%8F/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>装腔指南</title>
+    <link href="https://nine-pascal.gitee.io/posts/57a78e33/"/>
+    <id>https://nine-pascal.gitee.io/posts/57a78e33/</id>
+    <published>2020-01-01T13:42:51.000Z</published>
+    <updated>2020-01-01T13:42:51.000Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote><p>历史和社会不会爬行，只会跳跃，它们从一个断层跃上另一个断层，中间只有很少的摇摆。</p><footer><strong>纳西姆·尼古拉斯·塔勒布</strong><cite>黑天鹅</cite></footer></blockquote><a id="more"></a><h1 id="装腔指南"><a class="markdownIt-Anchor" href="#装腔指南"></a> 装腔指南</h1><ul><li>提到任何处境艰难的艺术家，你都可以评论：“他现在要等的就是一个像佩吉·古根海姆那样的人。”</li><li>要是你觉得某人的花园不怎么样，但又不想驳人家的面子，就可以引用斯泰因最有名的诗句：“一朵玫瑰就是一朵玫瑰就是一朵玫瑰就是一朵玫瑰。”</li><li>如果你看了一部电影，其中画面、意象震撼人心，但逻辑上说不太通，你可以说它延续了一个伟大的传统，源头就是斯特芳·马拉美。</li><li>在今天，提到安迪·沃霍尔这个名字，最常见的是因为提到了他那个“出名十五分钟”的概念。</li><li>如果你读了一个关于杀人犯的深度报道，发现他们除了爱杀人之外显得和常人无异，你可以宣称：“阿伦特所谓的平庸的恶的又一例证。”</li><li>当需要表达一个艺术家从极端的肉体伤痛中获取灵感时，可以提起卡罗作为例证。</li><li>下回散步的时候，宣称你散步不只是为了身体好，而且是希望借此逃脱那种海德格尔式的“被抛性”。</li><li>要是有人指责你胡说八道，你可以用一种很优雅的驳斥方式——转过去面对他们，低声说：“就像马歇尔·麦克卢汉曾经说的：‘你对我的思想一无所知。’”</li><li>每次你看到有人买奢侈品，都可以丢出鲍德里亚这个名字：“你是真的想要这件东西吗？还是，用鲍德里亚的话来说，你是想要它所代表的社会地位？”</li><li>如果被人发现你正在读一本很严肃的小说，可以跟他解释，在文学趣味上，你正努力朝一个“利维斯门徒”靠拢。</li><li>在聊到退休计划的时候，你可以谈到自己有意“避世而居，如叔本华一般培养一种远离尘世争斗的心境”。</li><li>如果你什么时候因为对虔诚之人不敬而受到指摘，借用一句萨拉马戈的话，低声说：“他们应该多把心思放在祈祷上。”</li><li>要是听到有人在宣扬“现在没有过去好”，你可以让他去读一读弗兰克·克默德的《终结的感觉》。这本书里说的就是人类总是愿意相信：过去更好，而且未来也马上会有改观，唯独只有当下却是糟糕得无以复加。</li></ul><hr>]]></content>
+    
+    <summary type="html">
+    
+      &lt;blockquote&gt;&lt;p&gt;历史和社会不会爬行，只会跳跃，它们从一个断层跃上另一个断层，中间只有很少的摇摆。&lt;/p&gt;&lt;footer&gt;&lt;strong&gt;纳西姆·尼古拉斯·塔勒布&lt;/strong&gt;&lt;cite&gt;黑天鹅&lt;/cite&gt;&lt;/footer&gt;&lt;/blockquote&gt;
+    
+    </summary>
+    
+    
+      <category term="书道是乾坤" scheme="https://Nine-Pascal.gitee.io/categories/%E4%B9%A6%E9%81%93%E6%98%AF%E4%B9%BE%E5%9D%A4/"/>
+    
+    
+      <category term="散文" scheme="https://Nine-Pascal.gitee.io/tags/%E6%95%A3%E6%96%87/"/>
+    
+      <category term="托马斯· W· 霍奇金森;休伯特·范登伯格" scheme="https://Nine-Pascal.gitee.io/tags/%E6%89%98%E9%A9%AC%E6%96%AF%C2%B7-w%C2%B7-%E9%9C%8D%E5%A5%87%E9%87%91%E6%A3%AE-%E4%BC%91%E4%BC%AF%E7%89%B9%C2%B7%E8%8C%83%E7%99%BB%E4%BC%AF%E6%A0%BC/"/>
+    
+      <category term="上海译文出版社" scheme="https://Nine-Pascal.gitee.io/tags/%E4%B8%8A%E6%B5%B7%E8%AF%91%E6%96%87%E5%87%BA%E7%89%88%E7%A4%BE/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>教父</title>
+    <link href="https://nine-pascal.gitee.io/posts/d5849dad/"/>
+    <id>https://nine-pascal.gitee.io/posts/d5849dad/</id>
+    <published>2019-10-01T17:35:23.000Z</published>
+    <updated>2019-10-01T17:35:23.000Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote><p>财富背后，总有犯罪</p><footer><strong>巴尔扎克</strong></footer></blockquote><a id="more"></a><h1 id="教父"><a class="markdownIt-Anchor" href="#教父"></a> 教父</h1><ul><li>酸涩的黑色胆汁涌上喉咙，穿过紧咬的牙关满溢而出。他取出胸带里的白色亚麻手帕，按在嘴唇上。他望着他们走过，一言不发，用崭新的手帕压着嘴唇。</li><li>天使脸孔，深情的紫罗兰色眼眸，纤细柔弱但凹凸有致的身体。她的美在银幕上被放大无数倍，超脱世俗。全世界数以亿计的男人都肯掏钱在银幕上观赏这张脸。</li><li>你必须承受社会强加的侮辱，即使是最卑微的人，只要时刻擦亮眼睛，就迟早能抓住机会，报复最有权势的人。</li><li>他轻蔑地说：“首先，你得像个男人。“怒火忽然扭曲了他的脸庞。他吼道：”像个男人！“他探身过办公室，揪住约翰尼·方坦的头发，动作里充满了蛮狠的友谊，”老天在上，你在我身边待了那么久，怎么可能变成这个样子？好莱坞的软蛋？哭哭啼啼求人可怜？哭的像个娘儿们——‘我该怎么办？哦，我该怎么办？’“</li><li>友谊，是通行的货币；忠诚，是最好的礼物；缄默，是唯一的规则。</li><li>他藐视一切规则，不给警告，不留余地。教父，就是自己的上帝。</li><li>他们是最浪漫的情人、最勇猛的战士、最忠诚的朋友。他们，是西西里人。</li><li>没有正义，只有胜利。</li></ul><hr>]]></content>
+    
+    <summary type="html">
+    
+      &lt;blockquote&gt;&lt;p&gt;财富背后，总有犯罪&lt;/p&gt;&lt;footer&gt;&lt;strong&gt;巴尔扎克&lt;/strong&gt;&lt;/footer&gt;&lt;/blockquote&gt;
+    
+    </summary>
+    
+    
+      <category term="书道是乾坤" scheme="https://Nine-Pascal.gitee.io/categories/%E4%B9%A6%E9%81%93%E6%98%AF%E4%B9%BE%E5%9D%A4/"/>
+    
+    
+      <category term="小说" scheme="https://Nine-Pascal.gitee.io/tags/%E5%B0%8F%E8%AF%B4/"/>
+    
+      <category term="马里奥·普佐" scheme="https://Nine-Pascal.gitee.io/tags/%E9%A9%AC%E9%87%8C%E5%A5%A5%C2%B7%E6%99%AE%E4%BD%90/"/>
+    
+      <category term="江苏文艺出版社" scheme="https://Nine-Pascal.gitee.io/tags/%E6%B1%9F%E8%8B%8F%E6%96%87%E8%89%BA%E5%87%BA%E7%89%88%E7%A4%BE/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>sublime 注册码</title>
+    <link href="https://nine-pascal.gitee.io/posts/648fdf1f/"/>
+    <id>https://nine-pascal.gitee.io/posts/648fdf1f/</id>
+    <published>2019-09-04T03:06:25.000Z</published>
+    <updated>2019-09-04T03:06:25.000Z</updated>
+    
+    <content type="html"><![CDATA[<div id="hexo-blog-encrypt" data-wpm="抱歉, 这个密码看着不太对, 请再试试." data-whm="抱歉, 这个文章不能被校验, 不过您还是能看看解密后的内容."><div class="hbe-input-container"><input type="password" id="hbePass" placeholder="您好, 这里需要密码." /><label>您好, 这里需要密码.</label><div class="bottom-line"></div></div><script id="hbeData" type="hbeData" data-hmacdigest="9de28ee6ace6632c85334d57c11a0e5c886c2177e7a2f3709df891b29b8bd0a9">658bc8dd5a422e0f6e7eca4d07f7922d41a298771da4e00dff7102de3ddbda5d42c633e6b6b5d90acc2eac287a0d5494f593552d5d316bc38d6286a712c62ea6612954771a467a9795404d9376a4a052b06579e156df473bee6d21eb0764ba668e86c49bfaa47d9ff9d75e0461da5ae1a2388b3f807b4f294ee65c1ef5a04ef2e026f0079513efd05699092ef50b958f9ecd2711e5ade3419d0c30dc008b371fda6891b3e3acd931210a9ecbe9a8574dca6963809f9caf195053d63e83e72f720e566d10c946d582a973702d350f2178a62e26bfaaffecf469cfe49a8073c789bbd17ba81beae1e2448b5da7acbca9f6636a857172a566fdd9baf1328cb9cc421b14edfbf5f1dee794d2348524298d4f9248d164e4b8fb7cfdd557e5c00683bdc6bd9b7e105c4add795a3406acfa3dca5bd33379db61b4e43eacd9041f362fcf66802314a31b501b527722e74e003e306d8c907aa61aac5b72f52c11f1e9584360a2700313e04ef490de3a3a70c7f929cc214aa3ad9e1c3384c666479c5c87ba9bf9c82fd1ad9c6aac439809d28919703f1dd23a4e4aa1676aabc260c7b7851f770415aa533a76b849efee9f34eb28c3484ab5cae97567397136f6f0ce2d4cfb904a37ba84410892fcde742491f83fe38d34fa6e793a340741c3f544642aa6170a6ca450660e1c826d37a5bf6bb93265a33664e7490cf15ca93f9e7721aa050951d1665de207db49db1afd4e10f800327ae2a6581188a05c3ad97784523e17885665d6616aa1d69d75163df883e7e8c1d16cedc7eb958fb99f105c865618f83dd0278e68913e863a830b55264a4a34a833e6f69c5a8ce5d3536508326eb786a90c20fbbd98130d9afb82388de5dd4aba64ba08a33b280d695c47ec3632283a072fac82255374722b31fbd2f6b3f98c9a7c960cd5487576bec983900d65a0709383f3abb2f079582541a79a4a5279416a973958558c5e258a821e19207628cfc3e5729991eedf554b5e336f7747172aa491d20f1d43a2934d9a0788b0bcd58635a26e33abbcb3a7ff6cb0d6f76c0225ce29e991b638a6faa50606b3273bc00330432dde030a1469525c14b36fd45878c09cce3734cee539bfb2f749fcb37878839809ae1e5e07fb4efe9cbc7d36f5b4dd0620e9c1b3489f93643025f255730c5aac6271776c67cee305ae649bc1d67f51f0ea978de9331587aee744a5e5bb7a43b5c310c020084384b07c85809b68bacf0fb21ee991895771a88c1fa56ae231e2abde5c6aa7f5d4accce65a56ee6bfe127602c77f905cd57010c3038f61b54df6d0d755a76ce8549392e028162f8135b9e237ad0fe5c5e1f5386f2b29a5867285ca34037ca2e81e2e009aa795adb3520057f39e7066a5693915a1f041e5957d9bd8a9a2f2eb9ada7b00ad02e3cf711085bb57383a3b0db6c1f7a7432a4e9719c313c67dc92ddca7e382c43951e91f6442c9ef4a6e434f39ad81c26e64abcdb19fc27ff89316a642126ba48aafc21db302c4b7ced50d98598bf37da6bcb20dbfb6f1f11ce6e3b503a3afb7d7f1bd6b3732d1e4066453226f878abedc082578eb619215b92a6ea4de0d020d6e2eee7ceb790d1c27c55032724310dd6df0d01f71436de25b0bcbf914dc8f409c151fc228c23623e96f7e3b52251271d2ae302bec5311c8a60d9f7e1839e4e9db616d104e69ff682cc30179f38704a8e70264268de993179ccd49a274fd7ed309778bd0529a7d08dc85e3c11f790cc05b7ff0276daa836826a99729b09fd7c3386f441af9ef93446f6fd71197d79ea9800b16452f761cd5183966f4bd2239191442605eed93d56e10f2b0526c6457e16a4cf3aebecf</script></div><script src="/lib/blog-encrypt.js"></script><link href="/css/blog-encrypt.css" rel="stylesheet" type="text/css">]]></content>
+    
+    <summary type="html">
+    
+      有东西被加密了, 请输入密码查看.
+    
+    </summary>
+    
+    
+      <category term="发布" scheme="https://Nine-Pascal.gitee.io/categories/%E5%8F%91%E5%B8%83/"/>
+    
+    
+      <category term="sublime" scheme="https://Nine-Pascal.gitee.io/tags/sublime/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>设计资源库</title>
+    <link href="https://nine-pascal.gitee.io/posts/fb1c5365/"/>
+    <id>https://nine-pascal.gitee.io/posts/fb1c5365/</id>
+    <published>2019-03-13T05:57:17.000Z</published>
+    <updated>2019-03-13T05:57:17.000Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote><ul><li></li></ul></blockquote><a id="more"></a><h1 id="设计资源库"><a class="markdownIt-Anchor" href="#设计资源库"></a> 设计资源库</h1><h2 id="免费可商用的音频库"><a class="markdownIt-Anchor" href="#免费可商用的音频库"></a> 免费可商用的「音频」库</h2><ol><li>Youtube创作者平台: Youtube Audio Library - <a href="https://studio.youtube.com/channel/UCpUDC4OkmFCGv8BFVKHOh_w/music" target="_blank" rel="noopener">https://studio.youtube.com/channel/UCpUDC4OkmFCGv8BFVKHOh_w/music</a></li><li>Facebook创作者平台 <a href="https://business.facebook.com/creatorstudio/?tab=ct_sound_collection&amp;collection_id=all_pages" target="_blank" rel="noopener">https://business.facebook.com/creatorstudio/?tab=ct_sound_collection&amp;collection_id=all_pages</a></li><li>SoundCloud - <a href="https://soundcloud.com/discover" target="_blank" rel="noopener">https://soundcloud.com/discover</a></li><li>SoundJay - <a href="https://www.soundjay.com/" target="_blank" rel="noopener">https://www.soundjay.com/</a></li><li>BBC Sound Effects - <a href="http://bbcsfx.acropolis.org.uk/" target="_blank" rel="noopener">http://bbcsfx.acropolis.org.uk/</a></li><li>Free PD - <a href="https://freepd.com/" target="_blank" rel="noopener">https://freepd.com/</a></li><li>Freesound（情绪状态和风格检索）：<a href="https://freesound.org/" target="_blank" rel="noopener">https://freesound.org/</a></li><li>Audiolibrary-<a href="https://www.audiolibrary.com.co" target="_blank" rel="noopener">https://www.audiolibrary.com.co</a></li><li>Free Stock Music - <a href="https://www.free-stock-music.com/%E2%80%8B" target="_blank" rel="noopener">https://www.free-stock-music.com/​</a></li></ol><h2 id="免费可商用的字体库"><a class="markdownIt-Anchor" href="#免费可商用的字体库"></a> 免费可商用的「字体」库</h2><ol><li>猫啃网-<a href="http://www.maoken.com/all-fonts" target="_blank" rel="noopener">http://www.maoken.com/all-fonts</a></li><li>字由：<a href="https://www.hellofont.cn/" target="_blank" rel="noopener">https://www.hellofont.cn/</a></li><li>字体天下：<a href="http://www.fonts.net.cn" target="_blank" rel="noopener">http://www.fonts.net.cn</a></li><li>自由字体-<a href="https://ziyouziti.com/index-index-all.html" target="_blank" rel="noopener">https://ziyouziti.com/index-index-all.html</a></li><li>英文字体免费商用字体-<a href="https://www.webdesigndev.com/best-free-fonts-for-commercial-use/" target="_blank" rel="noopener">https://www.webdesigndev.com/best-free-fonts-for-commercial-use/</a></li><li>100font：<a href="https://www.100font.com/" target="_blank" rel="noopener">https://www.100font.com/</a></li></ol><h2 id="设计配色"><a class="markdownIt-Anchor" href="#设计配色"></a> 「设计配色」</h2><ol><li>中国色-<a href="http://zhongguose.com/" target="_blank" rel="noopener">http://zhongguose.com/</a></li><li>日本传统色-<a href="http://www.anduril.cn/" target="_blank" rel="noopener">http://www.anduril.cn/</a></li></ol><h2 id="插画"><a class="markdownIt-Anchor" href="#插画"></a> 「插画」</h2><ol><li>Undraw-<a href="https://undraw.co/illustrations" target="_blank" rel="noopener">https://undraw.co/illustrations</a></li><li>manypixels-<a href="https://www.manypixels.co/gallery/" target="_blank" rel="noopener">https://www.manypixels.co/gallery/</a></li><li>isoflat-<a href="https://isoflat.com/" target="_blank" rel="noopener">https://isoflat.com/</a></li></ol><h2 id="logo设计"><a class="markdownIt-Anchor" href="#logo设计"></a> 「Logo设计」</h2><p>免费设计Logo的网站:<a href="https://www.logosc.cn/biaozhi/" target="_blank" rel="noopener">https://www.logosc.cn/biaozhi/</a><br>查找Logo的网站:<a href="https://worldvectorlogo.com" target="_blank" rel="noopener">https://worldvectorlogo.com</a></p><h2 id="在线抠图"><a class="markdownIt-Anchor" href="#在线抠图"></a> 「在线抠图」</h2><p><a href="https://www.remove.bg/" target="_blank" rel="noopener">https://www.remove.bg/</a></p><h2 id="自媒体运营必备"><a class="markdownIt-Anchor" href="#自媒体运营必备"></a> 「自媒体运营必备」</h2><p>各大网站热榜 <a href="https://tophub.today/%E2%80%8B" target="_blank" rel="noopener">https://tophub.today/​</a></p><h2 id="不烂大街的模版插件库"><a class="markdownIt-Anchor" href="#不烂大街的模版插件库"></a> 不烂大街的「模版插件」库</h2><ol><li>书生CG资源站- <a href="http://c4dsky.com/" target="_blank" rel="noopener">c4dsky.com/</a></li><li>大众脸LOOKAE</li><li>VIDEEZY-<a href="https://www.videezy.com/after-effects-templates" target="_blank" rel="noopener">https://www.videezy.com/after-effects-templates</a></li><li>ayatoweb-<a href="http://www.ayatoweb.com/" target="_blank" rel="noopener">http://www.ayatoweb.com/</a></li></ol><h2 id="免费可商用的图片库"><a class="markdownIt-Anchor" href="#免费可商用的图片库"></a> 免费可商用的「图片」库</h2><ol><li>movie-screencaps <a href="https://movie-screencaps.com/" target="_blank" rel="noopener">https://movie-screencaps.com/</a> 专门收集电影影视剧截图的网站,方便我们后期调色做参考;</li><li>Burst-<a href="https://burst.shopify.com/" target="_blank" rel="noopener">https://burst.shopify.com/</a></li><li>Burst-<a href="https://skitterphoto.com/" target="_blank" rel="noopener">https://skitterphoto.com/</a></li><li>foodiesfeed-<a href="https://www.foodiesfeed.com/" target="_blank" rel="noopener">https://www.foodiesfeed.com/</a> 这个网站所有的图片都和美食相关</li><li>CC0图片库-<a href="https://www.cc0.cn/" target="_blank" rel="noopener">https://www.cc0.cn/</a> 这个虽然是个聚合站，但是有些时候还是有些作用滴~</li><li>Pixabay -<a href="https://pixabay.com/zh/" target="_blank" rel="noopener">https://pixabay.com/zh/</a></li><li>Unsplash-<a href="https://unsplash.com" target="_blank" rel="noopener">https://unsplash.com</a></li><li>Pexels-<a href="https://www.pexels.com/zh-tw/" target="_blank" rel="noopener">https://www.pexels.com/zh-tw/</a></li><li>Life of pix-<a href="https://www.lifeofpix.com" target="_blank" rel="noopener">https://www.lifeofpix.com</a></li><li>StockSnap.io​7大Youtube音乐博主<br><a href="https://www.youtube.com/user/NoCopyri" target="_blank" rel="noopener">https://www.youtube.com/user/NoCopyri</a>…<br>YouTube@TeknoAXE’s Royalty Free Music<br><a href="https://www.youtube.com/user/teknoaxe" target="_blank" rel="noopener">https://www.youtube.com/user/teknoaxe</a>…<br>YouTube@Bass Nation<br><a href="https://www.youtube.com/channel/UCCvV" target="_blank" rel="noopener">https://www.youtube.com/channel/UCCvV</a>…<br>YouTube@Audio Library — Music for content creators<br><a href="https://www.youtube.com/channel/UCht8" target="_blank" rel="noopener">https://www.youtube.com/channel/UCht8</a>…<br>YouTube@Vlog No Copyright Music<br><a href="https://www.youtube.com/channel/UCEic" target="_blank" rel="noopener">https://www.youtube.com/channel/UCEic</a>…<br>YouTube@好好听MUSIC<br><a href="https://www.youtube.com/channel/UCAq-" target="_blank" rel="noopener">https://www.youtube.com/channel/UCAq-</a>…<br>YouTube@Audio Library 音樂庫 無版權配樂 免費背景音樂下載<br><a href="https://www.youtube.com/channel/UCorq" target="_blank" rel="noopener">https://www.youtube.com/channel/UCorq</a>…​</li></ol><h2 id="免费可商用高质量视频素材库"><a class="markdownIt-Anchor" href="#免费可商用高质量视频素材库"></a> 免费可商用高质量视频素材库</h2><ol><li>Life of Vids-<a href="https://www.lifeofvids.com/" target="_blank" rel="noopener">https://www.lifeofvids.com/</a></li><li>footage123-<a href="https://footage123.com/" target="_blank" rel="noopener">https://footage123.com/</a></li><li>Videezy（无pro标志则为免费） ：<a href="https://www.videezy.com/" target="_blank" rel="noopener">https://www.videezy.com/</a></li><li>stock footage-<a href="http://stockfootageforfree.com" target="_blank" rel="noopener">http://stockfootageforfree.com</a></li><li>Mixkit-<a href="https://mixkit.co" target="_blank" rel="noopener">https://mixkit.co</a></li><li>Pixabay 视频/图片https://pixabay.com</li><li>Pexels 视频/图片-<a href="https://www.pexels.com/videos" target="_blank" rel="noopener">https://www.pexels.com/videos</a></li><li>Vidlery-<a href="http://vidlery.com/" target="_blank" rel="noopener">http://vidlery.com/</a></li><li>Coverr-<a href="https://coverr.co/" target="_blank" rel="noopener">https://coverr.co/</a></li><li>Mazwai-<a href="http://mazwai.com" target="_blank" rel="noopener">http://mazwai.com</a></li><li>Ignite Motion-<a href="https://www.ignitemotion.com" target="_blank" rel="noopener">https://www.ignitemotion.com</a></li><li>Splitshire（图片和视频）-<a href="https://www.splitshire.com" target="_blank" rel="noopener">https://www.splitshire.com</a></li><li>Vidsplay-<a href="https://www.vidsplay.com/" target="_blank" rel="noopener">https://www.vidsplay.com/</a></li><li>isorepublic-<a href="https://isorepublic.com/" target="_blank" rel="noopener">https://isorepublic.com/</a></li></ol><hr>]]></content>
+    
+    <summary type="html">
+    
+      &lt;blockquote&gt;&lt;ul&gt;&lt;li&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/blockquote&gt;
+    
+    </summary>
+    
+    
+      <category term="技巧" scheme="https://Nine-Pascal.gitee.io/categories/%E6%8A%80%E5%B7%A7/"/>
+    
+    
+      <category term="设计" scheme="https://Nine-Pascal.gitee.io/tags/%E8%AE%BE%E8%AE%A1/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>纸牌屋</title>
+    <link href="https://nine-pascal.gitee.io/posts/d4571464/"/>
+    <id>https://nine-pascal.gitee.io/posts/d4571464/</id>
+    <published>2019-01-11T01:35:47.000Z</published>
+    <updated>2019-01-11T01:35:47.000Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote><ul><li>积雪中有一串新留下的脚印。他就站在平台另一段的栏杆旁，目光越过白厅的屋顶眺望着内政部的白色石墙。墙后面就是白金汉宫，今天晚上，他将唱着胜利的歌昂头挺胸地走进去。</li></ul></blockquote><a id="more"></a><h1 id="纸牌屋"><a class="markdownIt-Anchor" href="#纸牌屋"></a> 纸牌屋</h1><ul><li>为什么要虚度一生去换取入土之后碑头的空文呢？“永存我心”，什么样的蠢蛋才会希望自己的坟头铭刻这样一句空话？这不过是无病呻吟和多愁伤感，毫无意义。</li><li>一个人要拼搏奋斗，动力绝不来自于敬重，而是恐惧。恐惧之力，永比尊敬更甚。</li><li>这灯光超越了它一切的梦想，让它无法抗拒，让它别无选择。</li><li>原谅自己比任何事情都要容易得多。</li><li>民众都是庸俗的。按照民众的口味来行事；赞颂普通的人，让他觉得自己是贵族，是王子。</li><li>把握时机，就把握住了一切。</li><li>如果你必须要遭受痛苦，那么就让痛苦达到最无法抗拒，最剧烈的程度，这样一来对方就知道，你会给他造成伤害，远比他能够带给你的伤害更严重，更可怕。当然，这里的对方是指“野狗”。</li><li>我把《圣经》从头到尾认真读了一遍，注意到圣路加教导我们要宽恕我们的敌人。我把他的其他教诲，以及所有圣人的教诲都细数读完。真的，全都读完了。发现没有只言片语讲的是要宽恕我们的朋友。</li><li>党派会议有时候特别欢乐。看乱哄哄你方唱罢我登场，大家都拼了老命要把别人挤出窝去。</li><li>法律要求我们让补选胜利者觉得自己做了一件特别了不起的事情，实际上他一文不值。</li><li>忠诚也许是件好事，但忠诚很少能给你带来好但的建议。</li><li>如果无法抗拒改变的大潮，那就到了顺应改变的时候。换句话说，如果你紧紧扯着一个男人的蛋，那他肯定会紧跟你的脚步。</li><li>所有内阁成员都被称为“正确的值得尊敬的绅士”。这个称谓里面，只有三点是错误的……</li><li>思考太多就会转移注意力，忘记躲避背后的暗箭。</li><li>情人眼里出西施，编辑手里藏事实。</li><li>有些人就像图书馆被错误归档的书。这不过是个小小的错误，但将导致被永远地遗忘。</li><li>实现野心的道路，必是很多牺牲者的尸体铺成。</li><li>想要爬到树顶的人，就必须做好心理准备，身居高处的代价，就是会暴露自己最脆弱的部分。</li><li>自愿带领一支队伍冲在前面固然是值得称颂的英雄行为。但最好还是退后两步，让别人冲锋陷阵，你只需静候时机，踩着他们的尸体冲出去一举得胜。</li><li>任何程度的残酷都是不可原谅的，所以要狠就要狠到底，中途心慈手软是没有任何意义的。</li><li>爱能直抵一个男人的内心。而恐惧，能征途他更易攻破的那些部分。</li><li>领导力的关键标志是夸大自己的力量，政治的核心内容是遮掩自己的错误。</li><li>机会的双翼使用死亡的羽毛编织而成的。当然，是别人的死亡。</li><li>欲望会令人高瞻远瞩，盲目的爱则会让你目光短浅入井底之蛙。</li></ul><hr>]]></content>
+    
+    <summary type="html">
+    
+      &lt;blockquote&gt;&lt;ul&gt;&lt;li&gt;积雪中有一串新留下的脚印。他就站在平台另一段的栏杆旁，目光越过白厅的屋顶眺望着内政部的白色石墙。墙后面就是白金汉宫，今天晚上，他将唱着胜利的歌昂头挺胸地走进去。&lt;/li&gt;&lt;/ul&gt;&lt;/blockquote&gt;
+    
+    </summary>
+    
+    
+      <category term="书道是乾坤" scheme="https://Nine-Pascal.gitee.io/categories/%E4%B9%A6%E9%81%93%E6%98%AF%E4%B9%BE%E5%9D%A4/"/>
+    
+    
+      <category term="小说" scheme="https://Nine-Pascal.gitee.io/tags/%E5%B0%8F%E8%AF%B4/"/>
+    
+      <category term="迈克尔·道布斯" scheme="https://Nine-Pascal.gitee.io/tags/%E8%BF%88%E5%85%8B%E5%B0%94%C2%B7%E9%81%93%E5%B8%83%E6%96%AF/"/>
+    
+      <category term="百花洲文艺出版社" scheme="https://Nine-Pascal.gitee.io/tags/%E7%99%BE%E8%8A%B1%E6%B4%B2%E6%96%87%E8%89%BA%E5%87%BA%E7%89%88%E7%A4%BE/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Git安装与使用</title>
+    <link href="https://nine-pascal.gitee.io/posts/6525f1ce/"/>
+    <id>https://nine-pascal.gitee.io/posts/6525f1ce/</id>
+    <published>2018-09-11T21:31:19.000Z</published>
+    <updated>2018-09-11T21:31:19.000Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote><ul><li>Git 的安装与使用，双系统通用</li></ul></blockquote><a id="more"></a><h1 id="git安装与使用"><a class="markdownIt-Anchor" href="#git安装与使用"></a> Git安装与使用</h1><h2 id="macos-下安装-git"><a class="markdownIt-Anchor" href="#macos-下安装-git"></a> macOS 下安装 Git</h2><p>首先检查电脑里面是否有安装过Git，按下 <code>command + space</code>，搜索<code>terminal</code></p><h3 id="在-macos-上通过-homebrew-安装-git"><a class="markdownIt-Anchor" href="#在-macos-上通过-homebrew-安装-git"></a> 在 macOS 上通过 homebrew 安装 git</h3><p><strong>在安装过程中会要求输入密码（Password），输入密码过程不可见，密码输入完整后回车即可继续</strong></p><p><strong>因为安装 homebrew 的前提是电脑里安装了 git，所以在检测到电脑里面没有 git 后会弹窗要求安装，统一安装后等待即可。</strong></p><p><a href="https://brew.sh/index_zh-cn" target="_blank" rel="noopener">homebrew 原下载源</a></p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">/bin/bash -c <span class="string">"<span class="variable">$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)</span>"</span></span><br></pre></td></tr></table></figure><p><a href="https://gitee.com/cunkai/HomebrewCN" target="_blank" rel="noopener">homebrew 国内安装脚本</a></p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">/bin/zsh -c <span class="string">"<span class="variable">$(curl -fsSL https://gitee.com/cunkai/HomebrewCN/raw/master/Homebrew.sh)</span>"</span></span><br></pre></td></tr></table></figure><p><a href="https://docs.brew.sh/Installation" target="_blank" rel="noopener">hoebrew 官方文档</a></p><h3 id="homebrew-常用命令"><a class="markdownIt-Anchor" href="#homebrew-常用命令"></a> homebrew 常用命令</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br></pre></td><td class="code"><pre><span class="line">brew --version 查询 Homebrew 版本</span><br><span class="line">brew --<span class="built_in">help</span> brew 帮助</span><br><span class="line">brew update 更新 Homebrew</span><br><span class="line">brew install &lt;pkg_name&gt; 安装任意软件</span><br><span class="line">brew uninstall &lt;pkg_name&gt; 卸载任意软件</span><br><span class="line">brew search &lt;pkg_name&gt; 查询任意包</span><br><span class="line">brew list 列出安装列表</span><br><span class="line">brew info &lt;pkg_name&gt; 查看任意包内容信息</span><br><span class="line">brew upgrade &lt;pkg_name&gt; 更新任意包</span><br><span class="line">brew cleanup &lt;pkg_name&gt; 删除具体旧软件</span><br><span class="line">brew cleanup 删除所有旧软件</span><br><span class="line">brew outdated 已安装的包是否需要更新</span><br><span class="line">brew deps 已安装的包是否需要更新</span><br></pre></td></tr></table></figure><h3 id="homebrew-安装-git"><a class="markdownIt-Anchor" href="#homebrew-安装-git"></a> homebrew 安装 git</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">brew install git 安装 git</span><br><span class="line">brew upgrade git 更新 git</span><br><span class="line">brew uninstall git 卸载 git</span><br></pre></td></tr></table></figure><h3 id="通过-xcode-安装"><a class="markdownIt-Anchor" href="#通过-xcode-安装"></a> 通过 Xcode 安装</h3><p>直接从 AppStore 安装 Xcode，Xcode 集成了 Git，不过默认没有安装，你需要运行 Xcode，选择菜单 “Xcode”-&gt;“Preferences”，在弹出窗口中找到 “Downloads”，选择 “Command Line Tools”，点 “Install”就可以完成安装了。</p><h2 id="在-windows-里安装-git"><a class="markdownIt-Anchor" href="#在-windows-里安装-git"></a> 在 Windows 里安装 git</h2><p><a href="https://git-scm.com/" target="_blank" rel="noopener">git 官方网站</a></p><p><a href="https://zero-memory.lanzous.com/iyRJidz1q5a" target="_blank" rel="noopener">git 2.26.2-64-bit.exe 蓝奏云下载链接</a></p><h2 id="创建-ssh-key"><a class="markdownIt-Anchor" href="#创建-ssh-key"></a> 创建 ssh-key</h2><h3 id="设置-username-和-email"><a class="markdownIt-Anchor" href="#设置-username-和-email"></a> 设置 username 和 email</h3><p><strong>替换 <code>&lt;&gt;</code> 的内容</strong></p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">git config --global user.name &lt;your name&gt;</span><br><span class="line"></span><br><span class="line">git config --global user.email &lt;your email address&gt;</span><br></pre></td></tr></table></figure><h3 id="创建-ssh-key-2"><a class="markdownIt-Anchor" href="#创建-ssh-key-2"></a> 创建 ssh-key</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">ssh-keygen -t rsa -C &lt;your email address&gt;</span><br></pre></td></tr></table></figure><p>在这一步会要求确认路径和输入密码，默认回车即可。成功后会在 ～/ 下生成 .ssh 文件夹。</p><p>在这一步不输入密码即可使得 <code>vscode</code> 等软件有权限上传文件。</p><p>使用 cat 命令查看密钥：</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">cat .ssh/id_rsa.pub</span><br></pre></td></tr></table></figure><p>把输出结果保存下来。</p><h3 id="配置-git"><a class="markdownIt-Anchor" href="#配置-git"></a> 配置 git</h3><p>登陆 <code>GitHub -&gt; settings -&gt; SSH and GPG keys -&gt; New SSH key</code></p><p>在 Tittle 里面输入名称，在 Key 里面输入密钥</p><h3 id="验证配置"><a class="markdownIt-Anchor" href="#验证配置"></a> 验证配置</h3><p>在终端中输入：</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">ssh -T git@github.com</span><br></pre></td></tr></table></figure><h2 id="拉取同步项目"><a class="markdownIt-Anchor" href="#拉取同步项目"></a> 拉取/同步项目</h2><h3 id="从-github-上拉取项目"><a class="markdownIt-Anchor" href="#从-github-上拉取项目"></a> 从 GitHub 上拉取项目</h3><p>打开 GitHub 仓库，点开 Clone or Downloda，选择 Use SSH，复制链接</p><p>打开 terminal，把路径切换到目标地址：</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="built_in">cd</span> &lt;目标地址&gt;</span><br></pre></td></tr></table></figure><p>然后开始克隆项目，在终端中输入：</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">git glone &lt;刚刚复制到SSH地址&gt;</span><br></pre></td></tr></table></figure><h3 id="同步项目到github"><a class="markdownIt-Anchor" href="#同步项目到github"></a> 同步项目到GitHub</h3><p>打开 terminal，切换路径到目标地址，然后输入：</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">git add .  //把所有文件添加到仓库（ .代表所有文件）</span><br><span class="line">git commit -m <span class="string">"Commit"</span>  //挂起，引号里是 Commit changes 的代号</span><br><span class="line">git push &lt;仓库地址&gt;  //上传代码，仓库地址里田协你要的仓库</span><br></pre></td></tr></table></figure><hr>]]></content>
+    
+    <summary type="html">
+    
+      &lt;blockquote&gt;&lt;ul&gt;&lt;li&gt;Git 的安装与使用，双系统通用&lt;/li&gt;&lt;/ul&gt;&lt;/blockquote&gt;
+    
+    </summary>
+    
+    
+      <category term="技巧" scheme="https://Nine-Pascal.gitee.io/categories/%E6%8A%80%E5%B7%A7/"/>
+    
+    
+      <category term="git" scheme="https://Nine-Pascal.gitee.io/tags/git/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>孤独是生命的礼物</title>
+    <link href="https://nine-pascal.gitee.io/posts/647ba334/"/>
+    <id>https://nine-pascal.gitee.io/posts/647ba334/</id>
+    <published>2018-06-04T01:43:45.000Z</published>
+    <updated>2018-06-04T01:43:45.000Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote><p>时间的速度是难以想象的，流年暗中偷换，你换了我的，我换了我的，有时在镜中看不清自己，在别人脸上却看见了。</p><footer><strong>林清玄</strong></footer></blockquote><a id="more"></a><h1 id="孤独是生命的礼物"><a class="markdownIt-Anchor" href="#孤独是生命的礼物"></a> 孤独是生命的礼物</h1><ul><li>你的孤独以及你所畏惧的，都将被时光锻造成钢。</li><li>孤独是人生中一种自觉的独处，不是受伤者和患病者的退隐，也不是怪癖，而是作为一个人生活的唯一真正的存在状态。</li><li>高楼目尽欲黄昏，梧桐叶上萧萧雨！也许，没有也许，我们的生命仿如陀螺，在小圈子里转着转着，愈转愈慢，愈转愈慢……</li><li>生命或许如此无常，只是一再地还魂。</li><li>谁都没有错，谁都不是明知故犯的坏人，我们只是无以为继了。</li></ul><hr>]]></content>
+    
+    <summary type="html">
+    
+      &lt;blockquote&gt;&lt;p&gt;时间的速度是难以想象的，流年暗中偷换，你换了我的，我换了我的，有时在镜中看不清自己，在别人脸上却看见了。&lt;/p&gt;&lt;footer&gt;&lt;strong&gt;林清玄&lt;/strong&gt;&lt;/footer&gt;&lt;/blockquote&gt;
+    
+    </summary>
+    
+    
+      <category term="书道是乾坤" scheme="https://Nine-Pascal.gitee.io/categories/%E4%B9%A6%E9%81%93%E6%98%AF%E4%B9%BE%E5%9D%A4/"/>
+    
+    
+      <category term="散文" scheme="https://Nine-Pascal.gitee.io/tags/%E6%95%A3%E6%96%87/"/>
+    
+      <category term="长江文艺出版社" scheme="https://Nine-Pascal.gitee.io/tags/%E9%95%BF%E6%B1%9F%E6%96%87%E8%89%BA%E5%87%BA%E7%89%88%E7%A4%BE/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>理想国</title>
+    <link href="https://nine-pascal.gitee.io/posts/cdc8ceb7/"/>
+    <id>https://nine-pascal.gitee.io/posts/cdc8ceb7/</id>
+    <published>2017-12-07T04:41:07.000Z</published>
+    <updated>2017-12-07T04:41:07.000Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote><ul><li>也许我生在你的城邦不会出名，但你生在雅典一定不会。</li></ul></blockquote><a id="more"></a><h1 id="理想国"><a class="markdownIt-Anchor" href="#理想国"></a> 理想国</h1><ul><li>不过我觉得，色雷斯人也同样漂亮，如果不算更好的话。</li><li>如果我们不想听你们的话语，何来说服之说；我们不想听你们那些自以为知的废话。</li><li>随着肉体快乐的消散，我越来越迷恋交谈时的欢愉。</li><li>“年老了怎么谈恋爱？你还是过去的你吗？”“平静些吧。我早就摆脱掉了你说的那些事情，就像从一个狂躁的主人那里逃了出来别提多舒心了。”</li><li>也许我生在你的城邦不会出名，但你生在雅典一定不会。</li><li>一个善良的穷人老师固然不会轻松，但一个为富不仁的人，老了也不可能安宁。</li><li>富人对钱的爱更胜一筹，仿佛钱是他们所生的一般；就想作者对他们自己的诗作，父母之于孩子。于是他们成为了一群让人生厌的人，因为他们出来赞美财富就没有别的了。</li><li>如果一个人一无所知，并且承认他一无所知，他怎么能回答呢？</li></ul><hr>]]></content>
+    
+    <summary type="html">
+    
+      &lt;blockquote&gt;&lt;ul&gt;&lt;li&gt;也许我生在你的城邦不会出名，但你生在雅典一定不会。&lt;/li&gt;&lt;/ul&gt;&lt;/blockquote&gt;
+    
+    </summary>
+    
+    
+      <category term="书道是乾坤" scheme="https://Nine-Pascal.gitee.io/categories/%E4%B9%A6%E9%81%93%E6%98%AF%E4%B9%BE%E5%9D%A4/"/>
+    
+    
+      <category term="随笔" scheme="https://Nine-Pascal.gitee.io/tags/%E9%9A%8F%E7%AC%94/"/>
+    
+      <category term="柏拉图" scheme="https://Nine-Pascal.gitee.io/tags/%E6%9F%8F%E6%8B%89%E5%9B%BE/"/>
+    
+      <category term="中华书局" scheme="https://Nine-Pascal.gitee.io/tags/%E4%B8%AD%E5%8D%8E%E4%B9%A6%E5%B1%80/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>数学女孩</title>
+    <link href="https://nine-pascal.gitee.io/posts/755ad6e5/"/>
+    <id>https://nine-pascal.gitee.io/posts/755ad6e5/</id>
+    <published>2017-07-20T06:39:28.000Z</published>
+    <updated>2017-07-20T06:39:28.000Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote><ul><li></li></ul></blockquote><a id="more"></a><h1 id="数学女孩"><a class="markdownIt-Anchor" href="#数学女孩"></a> 数学女孩</h1><ul><li>刮起了一阵风，飘舞着的樱花花瓣将少女裹住。她身材高挑，长发乌黑亮丽，嘴巴紧闭着，一副认真的表情。脸上架着一副金丝眼镜，清楚地念着：“6，2，8，2，10，18.”</li><li>在这样一个春色满园，樱花飘落的地方，她显得有些格格不入。她有着一头乌黑亮丽的秀发，宛如指挥家般修长的手指，温暖的小手，淡淡的清香。</li><li>当我正在计算的时候，手中的铅笔突然被她拿起，接着她就旁若无人的在笔记本上写了起来。喂，这可是我的笔记本啊。但是，我并不讨厌她那样。她所说的数学题虽然比较难，但是也很有趣，非常刺激。“有一个正整数 n，如何求出 n 的所有约数之和？只要解题方法哟。”（n 的所有约数和 = $\prod_{k=0}^{m} \frac{1-p_{k}^{a_k}}{1-p_k} $）</li><li>积的形式、和的形式其实都只是数学公式的众多形式中的一种。当<strong>和的形式</strong>的方程为 0 时，我们很难求得解，但如果是<strong>积的形式</strong>的方程为 0 的话，答案就一目了然了。</li><li>“你如果喜欢琢磨数学公式的话，将角 <span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>θ</mi></mrow><annotation encoding="application/x-tex">\theta</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:.69444em;vertical-align:0"></span><span class="mord mathdefault" style="margin-right:.02778em">θ</span></span></span></span> 转动两次试试看，很有意思哦。”米尔嘉坐到我旁边的位子上，嘴凑到我耳边，轻声说道。她读 th 这个音时，舌头加载牙齿缝之间发出的摩擦音弄得我耳朵痒痒的。</li><li>“你从<span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>ω</mi></mrow><annotation encoding="application/x-tex">\omega</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:.43056em;vertical-align:0"></span><span class="mord mathdefault" style="margin-right:.03588em">ω</span></span></span></span> 这一点就能看出这是单位圆的三等分点了吧；你也能看出 <span class="katex"><span class="katex-mathml"><math><semantics><mrow><mfrac><mrow><mn>2</mn><mi>π</mi></mrow><mn>3</mn></mfrac></mrow><annotation encoding="application/x-tex">\frac{2\pi}{3}</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1.190108em;vertical-align:-.345em"></span><span class="mord"><span class="mopen nulldelimiter"></span><span class="mfrac"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:.845108em"><span style="top:-2.6550000000000002em"><span class="pstrut" style="height:3em"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight">3</span></span></span></span><span style="top:-3.23em"><span class="pstrut" style="height:3em"></span><span class="frac-line" style="border-bottom-width:.04em"></span></span><span style="top:-3.394em"><span class="pstrut" style="height:3em"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight">2</span><span class="mord mathdefault mtight" style="margin-right:.03588em">π</span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:.345em"><span></span></span></span></span></span><span class="mclose nulldelimiter"></span></span></span></span></span> 这个偏角、复数平面上的正三角形，以及由 <span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>ω</mi></mrow><annotation encoding="application/x-tex">\omega</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:.43056em;vertical-align:0"></span><span class="mord mathdefault" style="margin-right:.03588em">ω</span></span></span></span> 产生的三拍转一圈的旋转了吧；你还能看到 1，<span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>ω</mi></mrow><annotation encoding="application/x-tex">\omega</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:.43056em;vertical-align:0"></span><span class="mord mathdefault" style="margin-right:.03588em">ω</span></span></span></span>，<span class="katex"><span class="katex-mathml"><math><semantics><mrow><msup><mi>ω</mi><mn>2</mn></msup></mrow><annotation encoding="application/x-tex">\omega^2</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:.8141079999999999em;vertical-align:0"></span><span class="mord"><span class="mord mathdefault" style="margin-right:.03588em">ω</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:.8141079999999999em"><span style="top:-3.063em;margin-right:.05em"><span class="pstrut" style="height:2.7em"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight">2</span></span></span></span></span></span></span></span></span></span></span> 这三个小人在复数平面中跳舞了吧。”米尔嘉一口气说完，“你看到 <span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>ω</mi></mrow><annotation encoding="application/x-tex">\omega</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:.43056em;vertical-align:0"></span><span class="mord mathdefault" style="margin-right:.03588em">ω</span></span></span></span> 跳的华尔兹了吗？”她俨然一笑。</li><li>“米尔嘉，你和我一直保持着相同的距离，就是在圆周上吧，算是单位元吧。”我说。真是的，我到底在说些什么呀。米尔嘉“嗯”了一声，停下舞步答道：“单位圆的前提可是我们的手臂长之和为 1 哦。”说着她闭上了眼睛。</li><li>我突然想起来了——及时不能在很近很近的地方，也至少要在她旁边吧。我正想着这些话的时候，米尔嘉睁开了眼睛。“半径如果为零的话也……”她边说边用你拉我到身边，她的力气大得让我吃惊。“如果半径为零的也要保持一定距离吗？”说着，米尔嘉把脸斜靠近我，我们俩的眼睛就要碰到了。我什么话都说不出，米尔嘉也是，什么都没说。半径即使为零，圆仍然是圆，但这是一个特殊的圆点。然后我就……我们家……就这样沉默着，渐渐地靠近脸……</li><li></li></ul><hr>]]></content>
+    
+    <summary type="html">
+    
+      &lt;blockquote&gt;&lt;ul&gt;&lt;li&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/blockquote&gt;
+    
+    </summary>
+    
+    
+      <category term="书道是乾坤" scheme="https://Nine-Pascal.gitee.io/categories/%E4%B9%A6%E9%81%93%E6%98%AF%E4%B9%BE%E5%9D%A4/"/>
+    
+    
+      <category term="小说" scheme="https://Nine-Pascal.gitee.io/tags/%E5%B0%8F%E8%AF%B4/"/>
+    
+      <category term="结成 浩【日】" scheme="https://Nine-Pascal.gitee.io/tags/%E7%BB%93%E6%88%90-%E6%B5%A9%E3%80%90%E6%97%A5%E3%80%91/"/>
+    
+      <category term="人民邮电出版社 X 中国工信出版集团" scheme="https://Nine-Pascal.gitee.io/tags/%E4%BA%BA%E6%B0%91%E9%82%AE%E7%94%B5%E5%87%BA%E7%89%88%E7%A4%BE-x-%E4%B8%AD%E5%9B%BD%E5%B7%A5%E4%BF%A1%E5%87%BA%E7%89%88%E9%9B%86%E5%9B%A2/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>macOS 设置终端指令</title>
+    <link href="https://nine-pascal.gitee.io/posts/b0a99f3d/"/>
+    <id>https://nine-pascal.gitee.io/posts/b0a99f3d/</id>
+    <published>2017-01-16T04:40:55.000Z</published>
+    <updated>2017-01-16T04:40:55.000Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote><ul><li>macOS 有许多功能都需要命令行指令，这里简单的记录一下</li></ul></blockquote><a id="more"></a><h1 id="macos-设置终端指令"><a class="markdownIt-Anchor" href="#macos-设置终端指令"></a> macOS 设置终端指令</h1><h2 id="homebrew-国内安装指令"><a class="markdownIt-Anchor" href="#homebrew-国内安装指令"></a> homebrew 国内安装指令</h2><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">/bin/zsh -c <span class="string">"<span class="variable">$(curl -fsSL https://gitee.com/cunkai/HomebrewCN/raw/master/Homebrew.sh)</span>"</span></span><br></pre></td></tr></table></figure><h2 id="macos-安装网页端软件指令"><a class="markdownIt-Anchor" href="#macos-安装网页端软件指令"></a> macOS 安装网页端软件指令</h2><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">sudo spctl --master-disable  <span class="comment"># 开启全部来源安装</span></span><br><span class="line">sudo xattr -r -d com.apple.quarantine &#123;软件&#125;  <span class="comment"># 取消网络下载签字</span></span><br></pre></td></tr></table></figure><h2 id="parlllels开启联网接口"><a class="markdownIt-Anchor" href="#parlllels开启联网接口"></a> parlllels开启联网接口</h2><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line"><span class="meta">#</span><span class="bash">!/bin/sh</span></span><br><span class="line"></span><br><span class="line">sudo -b /Applications/Parallels\ Desktop.app/Contents/MacOS/prl_client_app</span><br></pre></td></tr></table></figure><h2 id="homebrew-安装缺少访问文件权限"><a class="markdownIt-Anchor" href="#homebrew-安装缺少访问文件权限"></a> homebrew 安装缺少访问文件权限</h2><p>将互联网下载的标记从文件里面删除</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">sudo chown -R <span class="string">'whoami'</span>:admin /usr/<span class="built_in">local</span>/bin</span><br><span class="line">sudo chown -R <span class="string">'whoami'</span>:admin /usr/<span class="built_in">local</span>/share</span><br></pre></td></tr></table></figure><h2><a class="markdownIt-Anchor" href="#"></a></h2><hr>]]></content>
+    
+    <summary type="html">
+    
+      &lt;blockquote&gt;&lt;ul&gt;&lt;li&gt;macOS 有许多功能都需要命令行指令，这里简单的记录一下&lt;/li&gt;&lt;/ul&gt;&lt;/blockquote&gt;
+    
+    </summary>
+    
+    
+      <category term="技巧" scheme="https://Nine-Pascal.gitee.io/categories/%E6%8A%80%E5%B7%A7/"/>
+    
+    
+      <category term="terminal" scheme="https://Nine-Pascal.gitee.io/tags/terminal/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>资本论</title>
+    <link href="https://nine-pascal.gitee.io/posts/ea3fffa1/"/>
+    <id>https://nine-pascal.gitee.io/posts/ea3fffa1/</id>
+    <published>2009-04-01T13:49:27.000Z</published>
+    <updated>2009-04-01T13:49:27.000Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote><p>我要在本书研究的，是资本主义生产方式以及和它相适应的生产关系和交换关系。</p><footer><strong>马克思</strong><cite>资本论</cite></footer></blockquote><a id="more"></a><h1 id="资本论"><a class="markdownIt-Anchor" href="#资本论"></a> 资本论</h1><ul><li>商品首先是一个外界的对象，一个靠自己的属性来满足人的某种需要的物。这种需要的性质如何，是与问题无关的。</li><li>物的有用性使物成为使用价值，当这种有用性不是悬在空中的。它决定于商品体的属性。</li><li>如果我们把啊劳动产品的使用机制抽离，那么也就是把那些使劳动产品成为使用价值的物质组成部分和形式抽取。他们不再是什么有用物，他们一切可以感觉到的属性都消失了。他们也不再是某一定的生产劳动的产品了，随着劳动产品的有用性质的消失，体现在劳动产品中的各种劳动的有用性质也消失了。</li><li>正像十八世纪美国独立战争给欧洲中产阶级敲响了警钟一样，十九世纪美国南北战争又给欧洲工人阶级敲响了警钟。<ul><li>统治阶级不管有没有较高尚的动机，也不得不为了自己的切身利益，把一切可以由法律控制的、妨害工人阶级发展的障碍除去。</li></ul></li><li>现代庸俗经济学（指现代西方经济学及其在中国的衍生物）中从人的所谓本性提出的理性人，实际上指的只是当时各种社会关系的产物而已，正因为人们处于同样的社会关系下，才会具有一定程度的相同的所谓理性的行为。撇开这种社会性就无法正确地理解所谓的人的理性。<ul><li>同其他任何观点比起来，我的观点是更不能要个人对这些关系负责的。因此，我们不宜对一些政治人物秋后算账，让他们个人对以前的阶级关系和利益下的冲突和牺牲等负责。</li></ul></li><li>正如商品本身是使用价值和价值的统一体一样，商品生产过程必定是劳动过程和价值形成过程的统一。<ul><li>不仅要生产价值，而且要生产剩余价值。</li></ul></li><li>劳动力独特的使用价值，能够创造出比自身价值大的价值，资本家正是看中这个价值差额，才去购买劳动力。资本家不仅懂得用劳动力的低价值去换取劳动力创造的高价值，而且更懂得用延长的劳动过程去换取更多的价值。</li><li>机器大工业标志着资本主义生产方式进入成熟阶段。像其他发展劳动生产力的方法一样，机器能够使商品便宜，缩短工人的工作日部分，从而无偿地延长工人给予资本家的工作时间。</li><li>作为外界的对象，商品首先是一个依靠自身属性来满足某种需要的物品。<ul><li>商品体本身的有用性，也就是使用价值，同人们取得这种性质所耗费劳动的多少是没有关系的。</li></ul></li><li>只要交换价值相等，交换价值相等的商品是没有任何差别或区别的。——巴尔本</li><li>马克思主义经济学告诉我们，商品是用来交换的劳动产品，而且就其价值而论，“商品是一种二重的东西，即使用价值与交换价值”。<ul><li>商品中包含的劳动也具有这种二重性，劳动就它表现为价值而论，也不再具有它作为使用价值的创造者所具有的那些特征。</li></ul></li><li>劳动总是和它的有用效果紧密联系的，而每个商品的使用价值都包含着一定目的的生产活动。</li><li>商品的二重性，决定商品不仅是自然形式和价值形式的体现，而且是使用物品和价值承担者的综合体。</li><li>在两个商品的价值关系中，一个商品处于相对价值形式，还是处于等价形式，完全取决于它在价值表现形式中所处的地位。<ul><li>换而言之，该商品所处的地位取决于它是价值被表现的商品，还是表现价值的商品。</li></ul></li><li>作为人类劳动的凝结，一个商品的价值性质可以通过该商品与另一个商品的关系显露出来。<ul><li>当然，商品的等价表现可以把不同种商品所包含的劳动化为一般人类劳动，把劳动形成价值这种特殊性质显示出来。</li></ul></li><li>一般来说，人类劳动力或人类劳动形成价值大多处于流动状态，本身也不是价值，只有在凝固的状态中，在物化的形式上才成为价值。</li><li>用来交换、能满足人们某种需要的劳动产品。它首先是通过劳动生产出来靠自己的属性来满足人们某种需要的。如果生产出来的东西是无用的，谁也不愿意买它，这种东西就不能成为商品。同时，商品又必须是用来进行交换的有用物。如果劳动生产出来的有用物不用于交换，而由生产者自己消费掉，或者无代价地被别人拿去消费掉，这种有用物也不是商品。</li><li>当每一种其他的商品体都能够成为反映该种商品价值镜子的时候，商品价值本身才真正表现出人类无差别劳动的凝结。<ul><li>供需价值和使用价值的联系，似乎逐渐分离了开来。比如比特币？</li></ul></li><li>虽然麻布只不过是商品世界的一个公民，但是通过商品价值表现形式的表明，麻布的商品价值也会同它借以表现的使用价值失去联系。</li><li>正如那些在麻布价值表现中充当等价物的商品一样，上衣、茶叶、小麦和铁等商品体中都包含多种多样的有用劳动，都是具有一定自然形式的价值体，并形成一个与其他许多特殊等价形式并列的等价形式。</li><li>如果没有一个固定的物品简单统一地表现这些物品的价值，那么交换将是烦琐而艰巨的。<ul><li>物物交换的模式真的存在吗？古人受限环境是环境不是脑子。</li></ul></li></ul><hr>]]></content>
+    
+    <summary type="html">
+    
+      &lt;blockquote&gt;&lt;p&gt;我要在本书研究的，是资本主义生产方式以及和它相适应的生产关系和交换关系。&lt;/p&gt;&lt;footer&gt;&lt;strong&gt;马克思&lt;/strong&gt;&lt;cite&gt;资本论&lt;/cite&gt;&lt;/footer&gt;&lt;/blockquote&gt;
+    
+    </summary>
+    
+    
+      <category term="书道是乾坤" scheme="https://Nine-Pascal.gitee.io/categories/%E4%B9%A6%E9%81%93%E6%98%AF%E4%B9%BE%E5%9D%A4/"/>
+    
+    
+      <category term="论述" scheme="https://Nine-Pascal.gitee.io/tags/%E8%AE%BA%E8%BF%B0/"/>
+    
+      <category term="马克思" scheme="https://Nine-Pascal.gitee.io/tags/%E9%A9%AC%E5%85%8B%E6%80%9D/"/>
+    
+      <category term="上海三联书店" scheme="https://Nine-Pascal.gitee.io/tags/%E4%B8%8A%E6%B5%B7%E4%B8%89%E8%81%94%E4%B9%A6%E5%BA%97/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>如何阅读一本书</title>
+    <link href="https://nine-pascal.gitee.io/posts/43b16a18/"/>
+    <id>https://nine-pascal.gitee.io/posts/43b16a18/</id>
+    <published>2006-06-01T13:45:31.000Z</published>
+    <updated>2006-06-01T13:45:31.000Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote><ul><li>作者要说的已经说完了，现在该读者开口了。</li></ul></blockquote><a id="more"></a><h1 id="如何阅读一本书"><a class="markdownIt-Anchor" href="#如何阅读一本书"></a> 如何阅读一本书</h1><ul><li>这里所谓“阅读的人”（readers），是指那些今天仍然习惯于从书写文字中汲取大量资讯，以增进对世界了解的人，就和过去历史上每一个深有教养、智慧的人别无二致。<ul><li>当然，并不是每个人都能做到这一点。即使在收音机、电视没有出现以前，许多资讯与知识也是从口传或观察而得。但是对智慧很高又充满好奇心的人来说，这样是不够的。他们知道他们还得阅读，而他们也真的身体力行。</li></ul></li><li>我们为了“理解”一件事，并不需要“知道”和这件事相关的所有事情。<ul><li>太多的资讯就如同太少的资讯一样，都是一种对理解力的阻碍。换句话说，现代的媒体正以压倒性的泛滥资讯阻碍了我们的理解力。</li></ul></li><li>我们所提到的这些媒体，经过太精心的设计，使得思想形同没有需要了（虽然只是表象如此）。如何将知识分子的态度与观点包装起来，是当今最有才智的人在做的最活跃的事业之一。</li><li>没有任何外力的帮助，你就是要读这本书。你什么都没有，只凭着内心的力量，玩味着眼前的字句，慢慢地提升自己，从只有模糊的概念到更清楚地理解为止。</li><li>其实，任何学习都不该没有活力，就像任何阅读都不该死气沉沉。</li><li>许多人会假设一位诗人在写诗的时候一定要运用他的想象力，而他们在读诗时却用不着。</li><li>即使一本书对99%的人有益，你未必不是那1%。</li><li>一位活生生的老师出现在你眼前时，你从了解他所说的话，来提升理解力。而如果一本书就是你的老师的话，你就得一切靠自己了。</li><li>如果我们打算继续学习与发现，我们就要懂得如何让书本来教导我们。</li><li>阅读，就像是非辅助型的自我发现学习，是跟着一位缺席的老师在学习。<ul><li>只有当我们知道如何去读时，我们才可能真正读懂。</li></ul></li><li>弗兰西斯·培根曾经说过：“有些书可以浅尝即止，有些书是要生吞活剥，只有少数的书是要咀嚼与消化的。”</li><li>每次革新都会带来一堆怀疑论者，与一些很难说服的观察者。</li><li>我们并不只想做个吹毛求疵的批评家。我们知道，不论我们要传达的讯息多么有道理，只要碰到成千上万的新人在学校的楼梯上踩得砰砰作响时，就什么也听不见了。</li><li>用这种快速浏览的方式来阅读一本书，就像是一个打谷的过程，能帮助你从糙糠中过滤出真正营养的谷核。</li><li>大致来说，许多书的宣传文案都是作者在出版公司企宣部门的协助下亲自写就的。这些作者尽力将书中的主旨正确地摘要出来，已经不是稀奇的事了。这些努力不应该被忽视。<ul><li>当然，如果宣传文案什么重点也没写到，只是在瞎吹牛，你也可以很容易看穿。不过，这也有助于你对这本书多一点了解，或许这本书根本没什么重要的东西可谈——而这也正是他们宣传文案一无可取的原因。</li></ul></li><li>就算最后有后记，一本书最后结尾的两三页也还是不可忽视的。<ul><li>很少有作者能拒绝这样的诱惑，而不在结尾几页将自己认为既新又重要的观点重新整理一遍的。</li></ul></li><li>阅读莎士比亚的戏剧，会获得极大的快乐。但是一代代的高中生被逼着要一幕一幕地念、一个生字接一个生字地查、一个学者注脚接一个注脚地读《裘利斯·恺撒》、《皆大欢喜》或《哈姆雷特》，这种快乐就被破坏了。</li><li>专心并不一定等于理解力——如果大家对“理解力”并没有误解的话。</li><li>你挂念着想读的好书太多了。<ul><li>除非你能真正起身接触到它们，把自己提升到同样的层次，否则你所挂念的这些好书只会使你厌倦而已。</li></ul></li><li>你须读出言外之意，才会有更大的收获。</li><li>除非你对每一个步骤都很熟练之后，你才能将所有不同的步骤连结起来，变成一个复杂却和谐的动作。<ul><li>你无法压缩其中不同的部分，好让不同的步骤立刻紧密连结起来。</li></ul></li><li>对这样的人来说，“理论”意味着空想或不可思议；而“实用”代表着某种有效的东西，可以立即换成金钱回来。</li><li>事实上，就算一本经济的书没有道理，是本坏书，也不影响这其是一本“好书”。</li><li>虽然实用的书都是滔滔雄辩又忠告勉励，但是滔滔雄辩又忠告勉励的书却不见得都实用。政治演说与政治论文大有不同，而经济宣传文告与经济问题的分析也大有出入。《共产党宣言》是一篇滔滔雄辩，但马克思的《资本论》却远不止于此。</li><li>譬如柏拉图说的，舞台使年轻人腐败堕落，或是早期教会里的神父所说的，戏剧是肉体与魔鬼的诱惑。</li><li>无论如何，千万不要在读不出头绪的时候，就总以为是自己的问题。<ul><li>事实上，无论你身为一个读者的感受如何，通常问题还是出在书的本身。</li></ul></li><li>我们不希望你落入批评家所认为的“意图谬误”，这种谬误就是你认为自己可以从作者所写的作品中看透他的内心。</li><li>书的世界与生意的世界一样，不但要懂得达成共识，还要懂得提案。<ul><li>买方或卖方的提案是一种计划、一种报价或承诺。在诚实的交易中，一个人提案，就是声明他准备依照某种模式来做事的意图。成功的谈判协商，除了需要诚实外，提案还要清楚，有吸引力，这样交易的双方才能够达成共识。书里的提案，也就是主旨，也是一种声明。那是作者在表达他对某件事的判断。他断言某件他认为是真的事，或否定某件他判断是假的事。他坚持这个或那个是事实。这样的提案，是一种知识的声明，而不是意图的声明。</li></ul></li><li>近来，不言自明的主旨都被冠上“废话重说”的称呼。这个说法的背后隐藏着一种对细枝末节的轻蔑态度，或是怀疑被欺骗的感觉。</li><li>事实上，读者才是最后一个说话的人。<ul><li>作者要说的已经说完了，现在该读者开口了。</li></ul></li><li>通常这些批评者会认为自己不需要阅读，只需要评论就可以了。</li><li>如果你在读一本好书，在你说出“我懂了”之前，最好迟疑一下。</li><li>“我不能反驳你，苏格拉底，”阿加顿说：“让我们假设你说的都对好了。” “阿加顿，你该说你不能反驳真理，因为苏格拉底是很容易被反驳的。”</li><li>大多数人会以赢得辩论为目标，却没想到要学习的是真理。</li><li>尊重知识与个人观点的不同，在作任何评断之前，都要找出理论基础。</li></ul><hr>]]></content>
+    
+    <summary type="html">
+    
+      &lt;blockquote&gt;&lt;ul&gt;&lt;li&gt;作者要说的已经说完了，现在该读者开口了。&lt;/li&gt;&lt;/ul&gt;&lt;/blockquote&gt;
+    
+    </summary>
+    
+    
+      <category term="书道是乾坤" scheme="https://Nine-Pascal.gitee.io/categories/%E4%B9%A6%E9%81%93%E6%98%AF%E4%B9%BE%E5%9D%A4/"/>
+    
+    
+      <category term="论述" scheme="https://Nine-Pascal.gitee.io/tags/%E8%AE%BA%E8%BF%B0/"/>
+    
+      <category term="莫提默·J·艾德勒;查尔斯·范多伦" scheme="https://Nine-Pascal.gitee.io/tags/%E8%8E%AB%E6%8F%90%E9%BB%98%C2%B7j%C2%B7%E8%89%BE%E5%BE%B7%E5%8B%92-%E6%9F%A5%E5%B0%94%E6%96%AF%C2%B7%E8%8C%83%E5%A4%9A%E4%BC%A6/"/>
+    
+      <category term="江西人民出版社" scheme="https://Nine-Pascal.gitee.io/tags/%E6%B1%9F%E8%A5%BF%E4%BA%BA%E6%B0%91%E5%87%BA%E7%89%88%E7%A4%BE/"/>
+    
+  </entry>
+  
+</feed>
