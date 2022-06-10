@@ -5,9 +5,9 @@
   <subtitle>于九点，与一刻</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="https://nine-pascal.gitee.io/"/>
+  <link href="https://nine-pascal.github.io/"/>
   <updated>2022-06-10T05:23:09.000Z</updated>
-  <id>https://nine-pascal.gitee.io/</id>
+  <id>https://nine-pascal.github.io/</id>
   
   <author>
     <name>Nine Pascal</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>模块化无人机设计</title>
-    <link href="https://nine-pascal.gitee.io/posts/8fdd3a3b/"/>
-    <id>https://nine-pascal.gitee.io/posts/8fdd3a3b/</id>
+    <link href="https://nine-pascal.github.io/posts/8fdd3a3b/"/>
+    <id>https://nine-pascal.github.io/posts/8fdd3a3b/</id>
     <published>2022-06-10T05:23:09.000Z</published>
     <updated>2022-06-10T05:23:09.000Z</updated>
     
@@ -32,19 +32,19 @@
     </summary>
     
     
-      <category term="发布" scheme="https://Nine-Pascal.gitee.io/categories/%E5%8F%91%E5%B8%83/"/>
+      <category term="发布" scheme="https://Nine-Pascal.github.io/categories/%E5%8F%91%E5%B8%83/"/>
     
     
-      <category term="模块化无人机设计" scheme="https://Nine-Pascal.gitee.io/tags/%E6%A8%A1%E5%9D%97%E5%8C%96%E6%97%A0%E4%BA%BA%E6%9C%BA%E8%AE%BE%E8%AE%A1/"/>
+      <category term="模块化无人机设计" scheme="https://Nine-Pascal.github.io/tags/%E6%A8%A1%E5%9D%97%E5%8C%96%E6%97%A0%E4%BA%BA%E6%9C%BA%E8%AE%BE%E8%AE%A1/"/>
     
-      <category term="报告" scheme="https://Nine-Pascal.gitee.io/tags/%E6%8A%A5%E5%91%8A/"/>
+      <category term="报告" scheme="https://Nine-Pascal.github.io/tags/%E6%8A%A5%E5%91%8A/"/>
     
   </entry>
   
   <entry>
     <title>传感器与检测技术题目二参考文献</title>
-    <link href="https://nine-pascal.gitee.io/posts/30c02624/"/>
-    <id>https://nine-pascal.gitee.io/posts/30c02624/</id>
+    <link href="https://nine-pascal.github.io/posts/30c02624/"/>
+    <id>https://nine-pascal.github.io/posts/30c02624/</id>
     <published>2022-04-14T07:04:09.000Z</published>
     <updated>2022-04-14T07:04:09.000Z</updated>
     
@@ -57,19 +57,19 @@
     </summary>
     
     
-      <category term="发布" scheme="https://Nine-Pascal.gitee.io/categories/%E5%8F%91%E5%B8%83/"/>
+      <category term="发布" scheme="https://Nine-Pascal.github.io/categories/%E5%8F%91%E5%B8%83/"/>
     
     
-      <category term="传感器与检测技术" scheme="https://Nine-Pascal.gitee.io/tags/%E4%BC%A0%E6%84%9F%E5%99%A8%E4%B8%8E%E6%A3%80%E6%B5%8B%E6%8A%80%E6%9C%AF/"/>
+      <category term="传感器与检测技术" scheme="https://Nine-Pascal.github.io/tags/%E4%BC%A0%E6%84%9F%E5%99%A8%E4%B8%8E%E6%A3%80%E6%B5%8B%E6%8A%80%E6%9C%AF/"/>
     
-      <category term="参考文献" scheme="https://Nine-Pascal.gitee.io/tags/%E5%8F%82%E8%80%83%E6%96%87%E7%8C%AE/"/>
+      <category term="参考文献" scheme="https://Nine-Pascal.github.io/tags/%E5%8F%82%E8%80%83%E6%96%87%E7%8C%AE/"/>
     
   </entry>
   
   <entry>
     <title>传感器与检测技术题目一大纲</title>
-    <link href="https://nine-pascal.gitee.io/posts/c38db76f/"/>
-    <id>https://nine-pascal.gitee.io/posts/c38db76f/</id>
+    <link href="https://nine-pascal.github.io/posts/c38db76f/"/>
+    <id>https://nine-pascal.github.io/posts/c38db76f/</id>
     <published>2022-04-13T05:23:09.000Z</published>
     <updated>2022-04-13T05:23:09.000Z</updated>
     
@@ -82,19 +82,19 @@
     </summary>
     
     
-      <category term="发布" scheme="https://Nine-Pascal.gitee.io/categories/%E5%8F%91%E5%B8%83/"/>
+      <category term="发布" scheme="https://Nine-Pascal.github.io/categories/%E5%8F%91%E5%B8%83/"/>
     
     
-      <category term="传感器与检测技术" scheme="https://Nine-Pascal.gitee.io/tags/%E4%BC%A0%E6%84%9F%E5%99%A8%E4%B8%8E%E6%A3%80%E6%B5%8B%E6%8A%80%E6%9C%AF/"/>
+      <category term="传感器与检测技术" scheme="https://Nine-Pascal.github.io/tags/%E4%BC%A0%E6%84%9F%E5%99%A8%E4%B8%8E%E6%A3%80%E6%B5%8B%E6%8A%80%E6%9C%AF/"/>
     
-      <category term="参考文献" scheme="https://Nine-Pascal.gitee.io/tags/%E5%8F%82%E8%80%83%E6%96%87%E7%8C%AE/"/>
+      <category term="参考文献" scheme="https://Nine-Pascal.github.io/tags/%E5%8F%82%E8%80%83%E6%96%87%E7%8C%AE/"/>
     
   </entry>
   
   <entry>
     <title>传感器与检测技术题目一参考文献</title>
-    <link href="https://nine-pascal.gitee.io/posts/b0db2efd/"/>
-    <id>https://nine-pascal.gitee.io/posts/b0db2efd/</id>
+    <link href="https://nine-pascal.github.io/posts/b0db2efd/"/>
+    <id>https://nine-pascal.github.io/posts/b0db2efd/</id>
     <published>2022-04-13T04:23:09.000Z</published>
     <updated>2022-04-13T04:23:09.000Z</updated>
     
@@ -107,19 +107,19 @@
     </summary>
     
     
-      <category term="发布" scheme="https://Nine-Pascal.gitee.io/categories/%E5%8F%91%E5%B8%83/"/>
+      <category term="发布" scheme="https://Nine-Pascal.github.io/categories/%E5%8F%91%E5%B8%83/"/>
     
     
-      <category term="传感器与检测技术" scheme="https://Nine-Pascal.gitee.io/tags/%E4%BC%A0%E6%84%9F%E5%99%A8%E4%B8%8E%E6%A3%80%E6%B5%8B%E6%8A%80%E6%9C%AF/"/>
+      <category term="传感器与检测技术" scheme="https://Nine-Pascal.github.io/tags/%E4%BC%A0%E6%84%9F%E5%99%A8%E4%B8%8E%E6%A3%80%E6%B5%8B%E6%8A%80%E6%9C%AF/"/>
     
-      <category term="参考文献" scheme="https://Nine-Pascal.gitee.io/tags/%E5%8F%82%E8%80%83%E6%96%87%E7%8C%AE/"/>
+      <category term="参考文献" scheme="https://Nine-Pascal.github.io/tags/%E5%8F%82%E8%80%83%E6%96%87%E7%8C%AE/"/>
     
   </entry>
   
   <entry>
     <title>网宣部简介</title>
-    <link href="https://nine-pascal.gitee.io/posts/e247ad55/"/>
-    <id>https://nine-pascal.gitee.io/posts/e247ad55/</id>
+    <link href="https://nine-pascal.github.io/posts/e247ad55/"/>
+    <id>https://nine-pascal.github.io/posts/e247ad55/</id>
     <published>2021-10-01T13:24:40.000Z</published>
     <updated>2021-10-01T13:24:40.000Z</updated>
     
@@ -132,15 +132,15 @@
     </summary>
     
     
-      <category term="何钩画人间" scheme="https://Nine-Pascal.gitee.io/categories/%E4%BD%95%E9%92%A9%E7%94%BB%E4%BA%BA%E9%97%B4/"/>
+      <category term="何钩画人间" scheme="https://Nine-Pascal.github.io/categories/%E4%BD%95%E9%92%A9%E7%94%BB%E4%BA%BA%E9%97%B4/"/>
     
     
   </entry>
   
   <entry>
     <title>macOS软件安装报错</title>
-    <link href="https://nine-pascal.gitee.io/posts/960795b7/"/>
-    <id>https://nine-pascal.gitee.io/posts/960795b7/</id>
+    <link href="https://nine-pascal.github.io/posts/960795b7/"/>
+    <id>https://nine-pascal.github.io/posts/960795b7/</id>
     <published>2021-06-22T06:20:41.000Z</published>
     <updated>2021-06-22T06:20:41.000Z</updated>
     
@@ -153,15 +153,15 @@
     </summary>
     
     
-      <category term="技巧" scheme="https://Nine-Pascal.gitee.io/categories/%E6%8A%80%E5%B7%A7/"/>
+      <category term="技巧" scheme="https://Nine-Pascal.github.io/categories/%E6%8A%80%E5%B7%A7/"/>
     
     
   </entry>
   
   <entry>
     <title>与创集</title>
-    <link href="https://nine-pascal.gitee.io/posts/c1ea11d8/"/>
-    <id>https://nine-pascal.gitee.io/posts/c1ea11d8/</id>
+    <link href="https://nine-pascal.github.io/posts/c1ea11d8/"/>
+    <id>https://nine-pascal.github.io/posts/c1ea11d8/</id>
     <published>2021-05-30T06:35:07.000Z</published>
     <updated>2021-05-30T06:35:07.000Z</updated>
     
@@ -174,15 +174,15 @@
     </summary>
     
     
-      <category term="当以爱之名" scheme="https://Nine-Pascal.gitee.io/categories/%E5%BD%93%E4%BB%A5%E7%88%B1%E4%B9%8B%E5%90%8D/"/>
+      <category term="当以爱之名" scheme="https://Nine-Pascal.github.io/categories/%E5%BD%93%E4%BB%A5%E7%88%B1%E4%B9%8B%E5%90%8D/"/>
     
     
   </entry>
   
   <entry>
     <title>当以爱之名</title>
-    <link href="https://nine-pascal.gitee.io/posts/19ed6fa1/"/>
-    <id>https://nine-pascal.gitee.io/posts/19ed6fa1/</id>
+    <link href="https://nine-pascal.github.io/posts/19ed6fa1/"/>
+    <id>https://nine-pascal.github.io/posts/19ed6fa1/</id>
     <published>2021-05-30T06:26:28.000Z</published>
     <updated>2021-05-30T06:26:28.000Z</updated>
     
@@ -195,15 +195,15 @@
     </summary>
     
     
-      <category term="当以爱之名" scheme="https://Nine-Pascal.gitee.io/categories/%E5%BD%93%E4%BB%A5%E7%88%B1%E4%B9%8B%E5%90%8D/"/>
+      <category term="当以爱之名" scheme="https://Nine-Pascal.github.io/categories/%E5%BD%93%E4%BB%A5%E7%88%B1%E4%B9%8B%E5%90%8D/"/>
     
     
   </entry>
   
   <entry>
     <title>明日再见</title>
-    <link href="https://nine-pascal.gitee.io/posts/858b49e1/"/>
-    <id>https://nine-pascal.gitee.io/posts/858b49e1/</id>
+    <link href="https://nine-pascal.github.io/posts/858b49e1/"/>
+    <id>https://nine-pascal.github.io/posts/858b49e1/</id>
     <published>2021-05-30T06:08:58.000Z</published>
     <updated>2021-05-30T06:08:58.000Z</updated>
     
@@ -216,15 +216,15 @@
     </summary>
     
     
-      <category term="当以爱之名" scheme="https://Nine-Pascal.gitee.io/categories/%E5%BD%93%E4%BB%A5%E7%88%B1%E4%B9%8B%E5%90%8D/"/>
+      <category term="当以爱之名" scheme="https://Nine-Pascal.github.io/categories/%E5%BD%93%E4%BB%A5%E7%88%B1%E4%B9%8B%E5%90%8D/"/>
     
     
   </entry>
   
   <entry>
     <title>图像类数据结构化分装架构</title>
-    <link href="https://nine-pascal.gitee.io/posts/bd2c7f1e/"/>
-    <id>https://nine-pascal.gitee.io/posts/bd2c7f1e/</id>
+    <link href="https://nine-pascal.github.io/posts/bd2c7f1e/"/>
+    <id>https://nine-pascal.github.io/posts/bd2c7f1e/</id>
     <published>2021-05-09T07:17:45.000Z</published>
     <updated>2021-05-09T07:17:45.000Z</updated>
     
@@ -237,15 +237,15 @@
     </summary>
     
     
-      <category term="发布" scheme="https://Nine-Pascal.gitee.io/categories/%E5%8F%91%E5%B8%83/"/>
+      <category term="发布" scheme="https://Nine-Pascal.github.io/categories/%E5%8F%91%E5%B8%83/"/>
     
     
   </entry>
   
   <entry>
     <title>注释集</title>
-    <link href="https://nine-pascal.gitee.io/posts/32c4efe/"/>
-    <id>https://nine-pascal.gitee.io/posts/32c4efe/</id>
+    <link href="https://nine-pascal.github.io/posts/32c4efe/"/>
+    <id>https://nine-pascal.github.io/posts/32c4efe/</id>
     <published>2021-03-16T08:13:01.000Z</published>
     <updated>2021-03-16T08:13:01.000Z</updated>
     
@@ -258,15 +258,15 @@
     </summary>
     
     
-      <category term="当以爱之名" scheme="https://Nine-Pascal.gitee.io/categories/%E5%BD%93%E4%BB%A5%E7%88%B1%E4%B9%8B%E5%90%8D/"/>
+      <category term="当以爱之名" scheme="https://Nine-Pascal.github.io/categories/%E5%BD%93%E4%BB%A5%E7%88%B1%E4%B9%8B%E5%90%8D/"/>
     
     
   </entry>
   
   <entry>
     <title>走笔集</title>
-    <link href="https://nine-pascal.gitee.io/posts/656d118b/"/>
-    <id>https://nine-pascal.gitee.io/posts/656d118b/</id>
+    <link href="https://nine-pascal.github.io/posts/656d118b/"/>
+    <id>https://nine-pascal.github.io/posts/656d118b/</id>
     <published>2021-03-16T08:06:16.000Z</published>
     <updated>2021-03-16T08:06:16.000Z</updated>
     
@@ -279,15 +279,15 @@
     </summary>
     
     
-      <category term="当以爱之名" scheme="https://Nine-Pascal.gitee.io/categories/%E5%BD%93%E4%BB%A5%E7%88%B1%E4%B9%8B%E5%90%8D/"/>
+      <category term="当以爱之名" scheme="https://Nine-Pascal.github.io/categories/%E5%BD%93%E4%BB%A5%E7%88%B1%E4%B9%8B%E5%90%8D/"/>
     
     
   </entry>
   
   <entry>
     <title>以吾名</title>
-    <link href="https://nine-pascal.gitee.io/posts/389f0135/"/>
-    <id>https://nine-pascal.gitee.io/posts/389f0135/</id>
+    <link href="https://nine-pascal.github.io/posts/389f0135/"/>
+    <id>https://nine-pascal.github.io/posts/389f0135/</id>
     <published>2021-02-25T07:29:20.000Z</published>
     <updated>2021-02-25T07:29:20.000Z</updated>
     
@@ -300,15 +300,15 @@
     </summary>
     
     
-      <category term="何钩画人间" scheme="https://Nine-Pascal.gitee.io/categories/%E4%BD%95%E9%92%A9%E7%94%BB%E4%BA%BA%E9%97%B4/"/>
+      <category term="何钩画人间" scheme="https://Nine-Pascal.github.io/categories/%E4%BD%95%E9%92%A9%E7%94%BB%E4%BA%BA%E9%97%B4/"/>
     
     
   </entry>
   
   <entry>
     <title>知识共享协议法律文本</title>
-    <link href="https://nine-pascal.gitee.io/posts/34b3a19b/"/>
-    <id>https://nine-pascal.gitee.io/posts/34b3a19b/</id>
+    <link href="https://nine-pascal.github.io/posts/34b3a19b/"/>
+    <id>https://nine-pascal.github.io/posts/34b3a19b/</id>
     <published>2020-12-30T16:00:00.000Z</published>
     <updated>2020-12-30T16:00:00.000Z</updated>
     
@@ -321,17 +321,17 @@
     </summary>
     
     
-      <category term="发布" scheme="https://Nine-Pascal.gitee.io/categories/%E5%8F%91%E5%B8%83/"/>
+      <category term="发布" scheme="https://Nine-Pascal.github.io/categories/%E5%8F%91%E5%B8%83/"/>
     
     
-      <category term="法律" scheme="https://Nine-Pascal.gitee.io/tags/%E6%B3%95%E5%BE%8B/"/>
+      <category term="法律" scheme="https://Nine-Pascal.github.io/tags/%E6%B3%95%E5%BE%8B/"/>
     
   </entry>
   
   <entry>
     <title>半小时漫画经济学</title>
-    <link href="https://nine-pascal.gitee.io/posts/f8b1e81f/"/>
-    <id>https://nine-pascal.gitee.io/posts/f8b1e81f/</id>
+    <link href="https://nine-pascal.github.io/posts/f8b1e81f/"/>
+    <id>https://nine-pascal.github.io/posts/f8b1e81f/</id>
     <published>2020-10-31T13:36:32.000Z</published>
     <updated>2020-10-31T13:36:32.000Z</updated>
     
@@ -344,21 +344,21 @@
     </summary>
     
     
-      <category term="书道是乾坤" scheme="https://Nine-Pascal.gitee.io/categories/%E4%B9%A6%E9%81%93%E6%98%AF%E4%B9%BE%E5%9D%A4/"/>
+      <category term="书道是乾坤" scheme="https://Nine-Pascal.github.io/categories/%E4%B9%A6%E9%81%93%E6%98%AF%E4%B9%BE%E5%9D%A4/"/>
     
     
-      <category term="论述" scheme="https://Nine-Pascal.gitee.io/tags/%E8%AE%BA%E8%BF%B0/"/>
+      <category term="论述" scheme="https://Nine-Pascal.github.io/tags/%E8%AE%BA%E8%BF%B0/"/>
     
-      <category term="陈磊·半小时漫画团队" scheme="https://Nine-Pascal.gitee.io/tags/%E9%99%88%E7%A3%8A%C2%B7%E5%8D%8A%E5%B0%8F%E6%97%B6%E6%BC%AB%E7%94%BB%E5%9B%A2%E9%98%9F/"/>
+      <category term="陈磊·半小时漫画团队" scheme="https://Nine-Pascal.github.io/tags/%E9%99%88%E7%A3%8A%C2%B7%E5%8D%8A%E5%B0%8F%E6%97%B6%E6%BC%AB%E7%94%BB%E5%9B%A2%E9%98%9F/"/>
     
-      <category term="江苏凤凰文艺出版社 (2018年4月20日)" scheme="https://Nine-Pascal.gitee.io/tags/%E6%B1%9F%E8%8B%8F%E5%87%A4%E5%87%B0%E6%96%87%E8%89%BA%E5%87%BA%E7%89%88%E7%A4%BE-2018%E5%B9%B44%E6%9C%8820%E6%97%A5/"/>
+      <category term="江苏凤凰文艺出版社 (2018年4月20日)" scheme="https://Nine-Pascal.github.io/tags/%E6%B1%9F%E8%8B%8F%E5%87%A4%E5%87%B0%E6%96%87%E8%89%BA%E5%87%BA%E7%89%88%E7%A4%BE-2018%E5%B9%B44%E6%9C%8820%E6%97%A5/"/>
     
   </entry>
   
   <entry>
     <title>课程共享计划</title>
-    <link href="https://nine-pascal.gitee.io/posts/1b24d637/"/>
-    <id>https://nine-pascal.gitee.io/posts/1b24d637/</id>
+    <link href="https://nine-pascal.github.io/posts/1b24d637/"/>
+    <id>https://nine-pascal.github.io/posts/1b24d637/</id>
     <published>2020-05-12T05:14:15.000Z</published>
     <updated>2020-05-12T05:14:15.000Z</updated>
     
@@ -371,17 +371,17 @@
     </summary>
     
     
-      <category term="发布" scheme="https://Nine-Pascal.gitee.io/categories/%E5%8F%91%E5%B8%83/"/>
+      <category term="发布" scheme="https://Nine-Pascal.github.io/categories/%E5%8F%91%E5%B8%83/"/>
     
     
-      <category term="课程共享计划" scheme="https://Nine-Pascal.gitee.io/tags/%E8%AF%BE%E7%A8%8B%E5%85%B1%E4%BA%AB%E8%AE%A1%E5%88%92/"/>
+      <category term="课程共享计划" scheme="https://Nine-Pascal.github.io/tags/%E8%AF%BE%E7%A8%8B%E5%85%B1%E4%BA%AB%E8%AE%A1%E5%88%92/"/>
     
   </entry>
   
   <entry>
     <title>Git Commit 指南</title>
-    <link href="https://nine-pascal.gitee.io/posts/6810be82/"/>
-    <id>https://nine-pascal.gitee.io/posts/6810be82/</id>
+    <link href="https://nine-pascal.github.io/posts/6810be82/"/>
+    <id>https://nine-pascal.github.io/posts/6810be82/</id>
     <published>2020-05-10T17:18:57.000Z</published>
     <updated>2020-05-10T17:18:57.000Z</updated>
     
@@ -394,17 +394,17 @@
     </summary>
     
     
-      <category term="技巧" scheme="https://Nine-Pascal.gitee.io/categories/%E6%8A%80%E5%B7%A7/"/>
+      <category term="技巧" scheme="https://Nine-Pascal.github.io/categories/%E6%8A%80%E5%B7%A7/"/>
     
     
-      <category term="git" scheme="https://Nine-Pascal.gitee.io/tags/git/"/>
+      <category term="git" scheme="https://Nine-Pascal.github.io/tags/git/"/>
     
   </entry>
   
   <entry>
     <title>pip 换源</title>
-    <link href="https://nine-pascal.gitee.io/posts/abad564b/"/>
-    <id>https://nine-pascal.gitee.io/posts/abad564b/</id>
+    <link href="https://nine-pascal.github.io/posts/abad564b/"/>
+    <id>https://nine-pascal.github.io/posts/abad564b/</id>
     <published>2020-02-25T01:55:01.000Z</published>
     <updated>2020-02-25T01:55:01.000Z</updated>
     
@@ -417,19 +417,19 @@
     </summary>
     
     
-      <category term="技巧" scheme="https://Nine-Pascal.gitee.io/categories/%E6%8A%80%E5%B7%A7/"/>
+      <category term="技巧" scheme="https://Nine-Pascal.github.io/categories/%E6%8A%80%E5%B7%A7/"/>
     
     
-      <category term="python" scheme="https://Nine-Pascal.gitee.io/tags/python/"/>
+      <category term="python" scheme="https://Nine-Pascal.github.io/tags/python/"/>
     
-      <category term="pip" scheme="https://Nine-Pascal.gitee.io/tags/pip/"/>
+      <category term="pip" scheme="https://Nine-Pascal.github.io/tags/pip/"/>
     
   </entry>
   
   <entry>
     <title>编码注释规范</title>
-    <link href="https://nine-pascal.gitee.io/posts/b2f50d02/"/>
-    <id>https://nine-pascal.gitee.io/posts/b2f50d02/</id>
+    <link href="https://nine-pascal.github.io/posts/b2f50d02/"/>
+    <id>https://nine-pascal.github.io/posts/b2f50d02/</id>
     <published>2020-02-05T04:23:09.000Z</published>
     <updated>2020-02-05T04:23:09.000Z</updated>
     
@@ -442,17 +442,17 @@
     </summary>
     
     
-      <category term="发布" scheme="https://Nine-Pascal.gitee.io/categories/%E5%8F%91%E5%B8%83/"/>
+      <category term="发布" scheme="https://Nine-Pascal.github.io/categories/%E5%8F%91%E5%B8%83/"/>
     
     
-      <category term="注释" scheme="https://Nine-Pascal.gitee.io/tags/%E6%B3%A8%E9%87%8A/"/>
+      <category term="注释" scheme="https://Nine-Pascal.github.io/tags/%E6%B3%A8%E9%87%8A/"/>
     
   </entry>
   
   <entry>
     <title>装腔指南</title>
-    <link href="https://nine-pascal.gitee.io/posts/57a78e33/"/>
-    <id>https://nine-pascal.gitee.io/posts/57a78e33/</id>
+    <link href="https://nine-pascal.github.io/posts/57a78e33/"/>
+    <id>https://nine-pascal.github.io/posts/57a78e33/</id>
     <published>2020-01-01T13:42:51.000Z</published>
     <updated>2020-01-01T13:42:51.000Z</updated>
     
@@ -465,21 +465,21 @@
     </summary>
     
     
-      <category term="书道是乾坤" scheme="https://Nine-Pascal.gitee.io/categories/%E4%B9%A6%E9%81%93%E6%98%AF%E4%B9%BE%E5%9D%A4/"/>
+      <category term="书道是乾坤" scheme="https://Nine-Pascal.github.io/categories/%E4%B9%A6%E9%81%93%E6%98%AF%E4%B9%BE%E5%9D%A4/"/>
     
     
-      <category term="散文" scheme="https://Nine-Pascal.gitee.io/tags/%E6%95%A3%E6%96%87/"/>
+      <category term="散文" scheme="https://Nine-Pascal.github.io/tags/%E6%95%A3%E6%96%87/"/>
     
-      <category term="托马斯· W· 霍奇金森;休伯特·范登伯格" scheme="https://Nine-Pascal.gitee.io/tags/%E6%89%98%E9%A9%AC%E6%96%AF%C2%B7-w%C2%B7-%E9%9C%8D%E5%A5%87%E9%87%91%E6%A3%AE-%E4%BC%91%E4%BC%AF%E7%89%B9%C2%B7%E8%8C%83%E7%99%BB%E4%BC%AF%E6%A0%BC/"/>
+      <category term="托马斯· W· 霍奇金森;休伯特·范登伯格" scheme="https://Nine-Pascal.github.io/tags/%E6%89%98%E9%A9%AC%E6%96%AF%C2%B7-w%C2%B7-%E9%9C%8D%E5%A5%87%E9%87%91%E6%A3%AE-%E4%BC%91%E4%BC%AF%E7%89%B9%C2%B7%E8%8C%83%E7%99%BB%E4%BC%AF%E6%A0%BC/"/>
     
-      <category term="上海译文出版社" scheme="https://Nine-Pascal.gitee.io/tags/%E4%B8%8A%E6%B5%B7%E8%AF%91%E6%96%87%E5%87%BA%E7%89%88%E7%A4%BE/"/>
+      <category term="上海译文出版社" scheme="https://Nine-Pascal.github.io/tags/%E4%B8%8A%E6%B5%B7%E8%AF%91%E6%96%87%E5%87%BA%E7%89%88%E7%A4%BE/"/>
     
   </entry>
   
   <entry>
     <title>教父</title>
-    <link href="https://nine-pascal.gitee.io/posts/d5849dad/"/>
-    <id>https://nine-pascal.gitee.io/posts/d5849dad/</id>
+    <link href="https://nine-pascal.github.io/posts/d5849dad/"/>
+    <id>https://nine-pascal.github.io/posts/d5849dad/</id>
     <published>2019-10-01T17:35:23.000Z</published>
     <updated>2019-10-01T17:35:23.000Z</updated>
     
@@ -492,21 +492,21 @@
     </summary>
     
     
-      <category term="书道是乾坤" scheme="https://Nine-Pascal.gitee.io/categories/%E4%B9%A6%E9%81%93%E6%98%AF%E4%B9%BE%E5%9D%A4/"/>
+      <category term="书道是乾坤" scheme="https://Nine-Pascal.github.io/categories/%E4%B9%A6%E9%81%93%E6%98%AF%E4%B9%BE%E5%9D%A4/"/>
     
     
-      <category term="小说" scheme="https://Nine-Pascal.gitee.io/tags/%E5%B0%8F%E8%AF%B4/"/>
+      <category term="小说" scheme="https://Nine-Pascal.github.io/tags/%E5%B0%8F%E8%AF%B4/"/>
     
-      <category term="马里奥·普佐" scheme="https://Nine-Pascal.gitee.io/tags/%E9%A9%AC%E9%87%8C%E5%A5%A5%C2%B7%E6%99%AE%E4%BD%90/"/>
+      <category term="马里奥·普佐" scheme="https://Nine-Pascal.github.io/tags/%E9%A9%AC%E9%87%8C%E5%A5%A5%C2%B7%E6%99%AE%E4%BD%90/"/>
     
-      <category term="江苏文艺出版社" scheme="https://Nine-Pascal.gitee.io/tags/%E6%B1%9F%E8%8B%8F%E6%96%87%E8%89%BA%E5%87%BA%E7%89%88%E7%A4%BE/"/>
+      <category term="江苏文艺出版社" scheme="https://Nine-Pascal.github.io/tags/%E6%B1%9F%E8%8B%8F%E6%96%87%E8%89%BA%E5%87%BA%E7%89%88%E7%A4%BE/"/>
     
   </entry>
   
   <entry>
     <title>sublime 注册码</title>
-    <link href="https://nine-pascal.gitee.io/posts/648fdf1f/"/>
-    <id>https://nine-pascal.gitee.io/posts/648fdf1f/</id>
+    <link href="https://nine-pascal.github.io/posts/648fdf1f/"/>
+    <id>https://nine-pascal.github.io/posts/648fdf1f/</id>
     <published>2019-09-04T03:06:25.000Z</published>
     <updated>2019-09-04T03:06:25.000Z</updated>
     
@@ -519,17 +519,17 @@
     </summary>
     
     
-      <category term="发布" scheme="https://Nine-Pascal.gitee.io/categories/%E5%8F%91%E5%B8%83/"/>
+      <category term="发布" scheme="https://Nine-Pascal.github.io/categories/%E5%8F%91%E5%B8%83/"/>
     
     
-      <category term="sublime" scheme="https://Nine-Pascal.gitee.io/tags/sublime/"/>
+      <category term="sublime" scheme="https://Nine-Pascal.github.io/tags/sublime/"/>
     
   </entry>
   
   <entry>
     <title>设计资源库</title>
-    <link href="https://nine-pascal.gitee.io/posts/fb1c5365/"/>
-    <id>https://nine-pascal.gitee.io/posts/fb1c5365/</id>
+    <link href="https://nine-pascal.github.io/posts/fb1c5365/"/>
+    <id>https://nine-pascal.github.io/posts/fb1c5365/</id>
     <published>2019-03-13T05:57:17.000Z</published>
     <updated>2019-03-13T05:57:17.000Z</updated>
     
@@ -542,17 +542,17 @@
     </summary>
     
     
-      <category term="技巧" scheme="https://Nine-Pascal.gitee.io/categories/%E6%8A%80%E5%B7%A7/"/>
+      <category term="技巧" scheme="https://Nine-Pascal.github.io/categories/%E6%8A%80%E5%B7%A7/"/>
     
     
-      <category term="设计" scheme="https://Nine-Pascal.gitee.io/tags/%E8%AE%BE%E8%AE%A1/"/>
+      <category term="设计" scheme="https://Nine-Pascal.github.io/tags/%E8%AE%BE%E8%AE%A1/"/>
     
   </entry>
   
   <entry>
     <title>纸牌屋</title>
-    <link href="https://nine-pascal.gitee.io/posts/d4571464/"/>
-    <id>https://nine-pascal.gitee.io/posts/d4571464/</id>
+    <link href="https://nine-pascal.github.io/posts/d4571464/"/>
+    <id>https://nine-pascal.github.io/posts/d4571464/</id>
     <published>2019-01-11T01:35:47.000Z</published>
     <updated>2019-01-11T01:35:47.000Z</updated>
     
@@ -565,21 +565,21 @@
     </summary>
     
     
-      <category term="书道是乾坤" scheme="https://Nine-Pascal.gitee.io/categories/%E4%B9%A6%E9%81%93%E6%98%AF%E4%B9%BE%E5%9D%A4/"/>
+      <category term="书道是乾坤" scheme="https://Nine-Pascal.github.io/categories/%E4%B9%A6%E9%81%93%E6%98%AF%E4%B9%BE%E5%9D%A4/"/>
     
     
-      <category term="小说" scheme="https://Nine-Pascal.gitee.io/tags/%E5%B0%8F%E8%AF%B4/"/>
+      <category term="小说" scheme="https://Nine-Pascal.github.io/tags/%E5%B0%8F%E8%AF%B4/"/>
     
-      <category term="迈克尔·道布斯" scheme="https://Nine-Pascal.gitee.io/tags/%E8%BF%88%E5%85%8B%E5%B0%94%C2%B7%E9%81%93%E5%B8%83%E6%96%AF/"/>
+      <category term="迈克尔·道布斯" scheme="https://Nine-Pascal.github.io/tags/%E8%BF%88%E5%85%8B%E5%B0%94%C2%B7%E9%81%93%E5%B8%83%E6%96%AF/"/>
     
-      <category term="百花洲文艺出版社" scheme="https://Nine-Pascal.gitee.io/tags/%E7%99%BE%E8%8A%B1%E6%B4%B2%E6%96%87%E8%89%BA%E5%87%BA%E7%89%88%E7%A4%BE/"/>
+      <category term="百花洲文艺出版社" scheme="https://Nine-Pascal.github.io/tags/%E7%99%BE%E8%8A%B1%E6%B4%B2%E6%96%87%E8%89%BA%E5%87%BA%E7%89%88%E7%A4%BE/"/>
     
   </entry>
   
   <entry>
     <title>Git安装与使用</title>
-    <link href="https://nine-pascal.gitee.io/posts/6525f1ce/"/>
-    <id>https://nine-pascal.gitee.io/posts/6525f1ce/</id>
+    <link href="https://nine-pascal.github.io/posts/6525f1ce/"/>
+    <id>https://nine-pascal.github.io/posts/6525f1ce/</id>
     <published>2018-09-11T21:31:19.000Z</published>
     <updated>2018-09-11T21:31:19.000Z</updated>
     
@@ -592,17 +592,17 @@
     </summary>
     
     
-      <category term="技巧" scheme="https://Nine-Pascal.gitee.io/categories/%E6%8A%80%E5%B7%A7/"/>
+      <category term="技巧" scheme="https://Nine-Pascal.github.io/categories/%E6%8A%80%E5%B7%A7/"/>
     
     
-      <category term="git" scheme="https://Nine-Pascal.gitee.io/tags/git/"/>
+      <category term="git" scheme="https://Nine-Pascal.github.io/tags/git/"/>
     
   </entry>
   
   <entry>
     <title>孤独是生命的礼物</title>
-    <link href="https://nine-pascal.gitee.io/posts/647ba334/"/>
-    <id>https://nine-pascal.gitee.io/posts/647ba334/</id>
+    <link href="https://nine-pascal.github.io/posts/647ba334/"/>
+    <id>https://nine-pascal.github.io/posts/647ba334/</id>
     <published>2018-06-04T01:43:45.000Z</published>
     <updated>2018-06-04T01:43:45.000Z</updated>
     
@@ -615,19 +615,19 @@
     </summary>
     
     
-      <category term="书道是乾坤" scheme="https://Nine-Pascal.gitee.io/categories/%E4%B9%A6%E9%81%93%E6%98%AF%E4%B9%BE%E5%9D%A4/"/>
+      <category term="书道是乾坤" scheme="https://Nine-Pascal.github.io/categories/%E4%B9%A6%E9%81%93%E6%98%AF%E4%B9%BE%E5%9D%A4/"/>
     
     
-      <category term="散文" scheme="https://Nine-Pascal.gitee.io/tags/%E6%95%A3%E6%96%87/"/>
+      <category term="散文" scheme="https://Nine-Pascal.github.io/tags/%E6%95%A3%E6%96%87/"/>
     
-      <category term="长江文艺出版社" scheme="https://Nine-Pascal.gitee.io/tags/%E9%95%BF%E6%B1%9F%E6%96%87%E8%89%BA%E5%87%BA%E7%89%88%E7%A4%BE/"/>
+      <category term="长江文艺出版社" scheme="https://Nine-Pascal.github.io/tags/%E9%95%BF%E6%B1%9F%E6%96%87%E8%89%BA%E5%87%BA%E7%89%88%E7%A4%BE/"/>
     
   </entry>
   
   <entry>
     <title>理想国</title>
-    <link href="https://nine-pascal.gitee.io/posts/cdc8ceb7/"/>
-    <id>https://nine-pascal.gitee.io/posts/cdc8ceb7/</id>
+    <link href="https://nine-pascal.github.io/posts/cdc8ceb7/"/>
+    <id>https://nine-pascal.github.io/posts/cdc8ceb7/</id>
     <published>2017-12-07T04:41:07.000Z</published>
     <updated>2017-12-07T04:41:07.000Z</updated>
     
@@ -640,21 +640,21 @@
     </summary>
     
     
-      <category term="书道是乾坤" scheme="https://Nine-Pascal.gitee.io/categories/%E4%B9%A6%E9%81%93%E6%98%AF%E4%B9%BE%E5%9D%A4/"/>
+      <category term="书道是乾坤" scheme="https://Nine-Pascal.github.io/categories/%E4%B9%A6%E9%81%93%E6%98%AF%E4%B9%BE%E5%9D%A4/"/>
     
     
-      <category term="随笔" scheme="https://Nine-Pascal.gitee.io/tags/%E9%9A%8F%E7%AC%94/"/>
+      <category term="随笔" scheme="https://Nine-Pascal.github.io/tags/%E9%9A%8F%E7%AC%94/"/>
     
-      <category term="柏拉图" scheme="https://Nine-Pascal.gitee.io/tags/%E6%9F%8F%E6%8B%89%E5%9B%BE/"/>
+      <category term="柏拉图" scheme="https://Nine-Pascal.github.io/tags/%E6%9F%8F%E6%8B%89%E5%9B%BE/"/>
     
-      <category term="中华书局" scheme="https://Nine-Pascal.gitee.io/tags/%E4%B8%AD%E5%8D%8E%E4%B9%A6%E5%B1%80/"/>
+      <category term="中华书局" scheme="https://Nine-Pascal.github.io/tags/%E4%B8%AD%E5%8D%8E%E4%B9%A6%E5%B1%80/"/>
     
   </entry>
   
   <entry>
     <title>数学女孩</title>
-    <link href="https://nine-pascal.gitee.io/posts/755ad6e5/"/>
-    <id>https://nine-pascal.gitee.io/posts/755ad6e5/</id>
+    <link href="https://nine-pascal.github.io/posts/755ad6e5/"/>
+    <id>https://nine-pascal.github.io/posts/755ad6e5/</id>
     <published>2017-07-20T06:39:28.000Z</published>
     <updated>2017-07-20T06:39:28.000Z</updated>
     
@@ -667,21 +667,21 @@
     </summary>
     
     
-      <category term="书道是乾坤" scheme="https://Nine-Pascal.gitee.io/categories/%E4%B9%A6%E9%81%93%E6%98%AF%E4%B9%BE%E5%9D%A4/"/>
+      <category term="书道是乾坤" scheme="https://Nine-Pascal.github.io/categories/%E4%B9%A6%E9%81%93%E6%98%AF%E4%B9%BE%E5%9D%A4/"/>
     
     
-      <category term="小说" scheme="https://Nine-Pascal.gitee.io/tags/%E5%B0%8F%E8%AF%B4/"/>
+      <category term="小说" scheme="https://Nine-Pascal.github.io/tags/%E5%B0%8F%E8%AF%B4/"/>
     
-      <category term="结成 浩【日】" scheme="https://Nine-Pascal.gitee.io/tags/%E7%BB%93%E6%88%90-%E6%B5%A9%E3%80%90%E6%97%A5%E3%80%91/"/>
+      <category term="结成 浩【日】" scheme="https://Nine-Pascal.github.io/tags/%E7%BB%93%E6%88%90-%E6%B5%A9%E3%80%90%E6%97%A5%E3%80%91/"/>
     
-      <category term="人民邮电出版社 X 中国工信出版集团" scheme="https://Nine-Pascal.gitee.io/tags/%E4%BA%BA%E6%B0%91%E9%82%AE%E7%94%B5%E5%87%BA%E7%89%88%E7%A4%BE-x-%E4%B8%AD%E5%9B%BD%E5%B7%A5%E4%BF%A1%E5%87%BA%E7%89%88%E9%9B%86%E5%9B%A2/"/>
+      <category term="人民邮电出版社 X 中国工信出版集团" scheme="https://Nine-Pascal.github.io/tags/%E4%BA%BA%E6%B0%91%E9%82%AE%E7%94%B5%E5%87%BA%E7%89%88%E7%A4%BE-x-%E4%B8%AD%E5%9B%BD%E5%B7%A5%E4%BF%A1%E5%87%BA%E7%89%88%E9%9B%86%E5%9B%A2/"/>
     
   </entry>
   
   <entry>
     <title>macOS 设置终端指令</title>
-    <link href="https://nine-pascal.gitee.io/posts/b0a99f3d/"/>
-    <id>https://nine-pascal.gitee.io/posts/b0a99f3d/</id>
+    <link href="https://nine-pascal.github.io/posts/b0a99f3d/"/>
+    <id>https://nine-pascal.github.io/posts/b0a99f3d/</id>
     <published>2017-01-16T04:40:55.000Z</published>
     <updated>2017-01-16T04:40:55.000Z</updated>
     
@@ -694,17 +694,17 @@
     </summary>
     
     
-      <category term="技巧" scheme="https://Nine-Pascal.gitee.io/categories/%E6%8A%80%E5%B7%A7/"/>
+      <category term="技巧" scheme="https://Nine-Pascal.github.io/categories/%E6%8A%80%E5%B7%A7/"/>
     
     
-      <category term="terminal" scheme="https://Nine-Pascal.gitee.io/tags/terminal/"/>
+      <category term="terminal" scheme="https://Nine-Pascal.github.io/tags/terminal/"/>
     
   </entry>
   
   <entry>
     <title>性学三论</title>
-    <link href="https://nine-pascal.gitee.io/posts/4783de0/"/>
-    <id>https://nine-pascal.gitee.io/posts/4783de0/</id>
+    <link href="https://nine-pascal.github.io/posts/4783de0/"/>
+    <id>https://nine-pascal.github.io/posts/4783de0/</id>
     <published>2014-02-01T04:23:33.000Z</published>
     <updated>2014-02-01T04:23:33.000Z</updated>
     
@@ -717,21 +717,21 @@
     </summary>
     
     
-      <category term="书道是乾坤" scheme="https://Nine-Pascal.gitee.io/categories/%E4%B9%A6%E9%81%93%E6%98%AF%E4%B9%BE%E5%9D%A4/"/>
+      <category term="书道是乾坤" scheme="https://Nine-Pascal.github.io/categories/%E4%B9%A6%E9%81%93%E6%98%AF%E4%B9%BE%E5%9D%A4/"/>
     
     
-      <category term="散文" scheme="https://Nine-Pascal.gitee.io/tags/%E6%95%A3%E6%96%87/"/>
+      <category term="散文" scheme="https://Nine-Pascal.github.io/tags/%E6%95%A3%E6%96%87/"/>
     
-      <category term="荣格【瑞士】" scheme="https://Nine-Pascal.gitee.io/tags/%E8%8D%A3%E6%A0%BC%E3%80%90%E7%91%9E%E5%A3%AB%E3%80%91/"/>
+      <category term="荣格【瑞士】" scheme="https://Nine-Pascal.github.io/tags/%E8%8D%A3%E6%A0%BC%E3%80%90%E7%91%9E%E5%A3%AB%E3%80%91/"/>
     
-      <category term="武汉出版社" scheme="https://Nine-Pascal.gitee.io/tags/%E6%AD%A6%E6%B1%89%E5%87%BA%E7%89%88%E7%A4%BE/"/>
+      <category term="武汉出版社" scheme="https://Nine-Pascal.github.io/tags/%E6%AD%A6%E6%B1%89%E5%87%BA%E7%89%88%E7%A4%BE/"/>
     
   </entry>
   
   <entry>
     <title>资本论</title>
-    <link href="https://nine-pascal.gitee.io/posts/ea3fffa1/"/>
-    <id>https://nine-pascal.gitee.io/posts/ea3fffa1/</id>
+    <link href="https://nine-pascal.github.io/posts/ea3fffa1/"/>
+    <id>https://nine-pascal.github.io/posts/ea3fffa1/</id>
     <published>2009-04-01T13:49:27.000Z</published>
     <updated>2009-04-01T13:49:27.000Z</updated>
     
@@ -744,21 +744,21 @@
     </summary>
     
     
-      <category term="书道是乾坤" scheme="https://Nine-Pascal.gitee.io/categories/%E4%B9%A6%E9%81%93%E6%98%AF%E4%B9%BE%E5%9D%A4/"/>
+      <category term="书道是乾坤" scheme="https://Nine-Pascal.github.io/categories/%E4%B9%A6%E9%81%93%E6%98%AF%E4%B9%BE%E5%9D%A4/"/>
     
     
-      <category term="论述" scheme="https://Nine-Pascal.gitee.io/tags/%E8%AE%BA%E8%BF%B0/"/>
+      <category term="论述" scheme="https://Nine-Pascal.github.io/tags/%E8%AE%BA%E8%BF%B0/"/>
     
-      <category term="马克思" scheme="https://Nine-Pascal.gitee.io/tags/%E9%A9%AC%E5%85%8B%E6%80%9D/"/>
+      <category term="马克思" scheme="https://Nine-Pascal.github.io/tags/%E9%A9%AC%E5%85%8B%E6%80%9D/"/>
     
-      <category term="上海三联书店" scheme="https://Nine-Pascal.gitee.io/tags/%E4%B8%8A%E6%B5%B7%E4%B8%89%E8%81%94%E4%B9%A6%E5%BA%97/"/>
+      <category term="上海三联书店" scheme="https://Nine-Pascal.github.io/tags/%E4%B8%8A%E6%B5%B7%E4%B8%89%E8%81%94%E4%B9%A6%E5%BA%97/"/>
     
   </entry>
   
   <entry>
     <title>如何阅读一本书</title>
-    <link href="https://nine-pascal.gitee.io/posts/43b16a18/"/>
-    <id>https://nine-pascal.gitee.io/posts/43b16a18/</id>
+    <link href="https://nine-pascal.github.io/posts/43b16a18/"/>
+    <id>https://nine-pascal.github.io/posts/43b16a18/</id>
     <published>2006-06-01T13:45:31.000Z</published>
     <updated>2006-06-01T13:45:31.000Z</updated>
     
@@ -771,14 +771,14 @@
     </summary>
     
     
-      <category term="书道是乾坤" scheme="https://Nine-Pascal.gitee.io/categories/%E4%B9%A6%E9%81%93%E6%98%AF%E4%B9%BE%E5%9D%A4/"/>
+      <category term="书道是乾坤" scheme="https://Nine-Pascal.github.io/categories/%E4%B9%A6%E9%81%93%E6%98%AF%E4%B9%BE%E5%9D%A4/"/>
     
     
-      <category term="论述" scheme="https://Nine-Pascal.gitee.io/tags/%E8%AE%BA%E8%BF%B0/"/>
+      <category term="论述" scheme="https://Nine-Pascal.github.io/tags/%E8%AE%BA%E8%BF%B0/"/>
     
-      <category term="莫提默·J·艾德勒;查尔斯·范多伦" scheme="https://Nine-Pascal.gitee.io/tags/%E8%8E%AB%E6%8F%90%E9%BB%98%C2%B7j%C2%B7%E8%89%BE%E5%BE%B7%E5%8B%92-%E6%9F%A5%E5%B0%94%E6%96%AF%C2%B7%E8%8C%83%E5%A4%9A%E4%BC%A6/"/>
+      <category term="莫提默·J·艾德勒;查尔斯·范多伦" scheme="https://Nine-Pascal.github.io/tags/%E8%8E%AB%E6%8F%90%E9%BB%98%C2%B7j%C2%B7%E8%89%BE%E5%BE%B7%E5%8B%92-%E6%9F%A5%E5%B0%94%E6%96%AF%C2%B7%E8%8C%83%E5%A4%9A%E4%BC%A6/"/>
     
-      <category term="江西人民出版社" scheme="https://Nine-Pascal.gitee.io/tags/%E6%B1%9F%E8%A5%BF%E4%BA%BA%E6%B0%91%E5%87%BA%E7%89%88%E7%A4%BE/"/>
+      <category term="江西人民出版社" scheme="https://Nine-Pascal.github.io/tags/%E6%B1%9F%E8%A5%BF%E4%BA%BA%E6%B0%91%E5%87%BA%E7%89%88%E7%A4%BE/"/>
     
   </entry>
   
